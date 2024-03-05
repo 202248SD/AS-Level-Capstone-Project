@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-03-05T01:34:15.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="24.0.1" etag="Kq6B-EGv8WoGQKsaqD0c" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-05T01:54:15.078Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="lBBT3zWYo3Vhrn_gYaPD" version="24.0.1" type="github">
   <diagram name="Page-1" id="HZ2p79blMe3KhE2qhG87">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-6" target="HVxcus7WSnwF8_tyVSsU-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-6" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;i = random.randint(1, len(DF))&lt;/font&gt;&lt;div style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;KeyWord = DF[i][0]&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 50%; font-size: 13px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;Definition = DF[i][1]&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="150" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-7" target="HVxcus7WSnwF8_tyVSsU-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-7" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-8" target="HVxcus7WSnwF8_tyVSsU-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-8" value="&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;i = random.randint(1, len(DF)&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;FakeKey1 = DF[i][0]&lt;/span&gt;&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;i = random.randint(1, len(DF)&lt;/font&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;FakeKey2 = DF[i][0]&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-11" target="HVxcus7WSnwF8_tyVSsU-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-11" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;OUTPUT Definition&lt;/font&gt;&lt;div style=&quot;font-size: 6px; line-height: 120%;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;OUTPUT {KeyWord, FakeKey1, FakeKey2}&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-12" target="HVxcus7WSnwF8_tyVSsU-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-12" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;INPUT Answer&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="360" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-13" target="HVxcus7WSnwF8_tyVSsU-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-13" target="HVxcus7WSnwF8_tyVSsU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-13" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Is Answer = Keyword?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-15" target="HVxcus7WSnwF8_tyVSsU-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-15" value="&lt;font size=&quot;1&quot;&gt;Correct += 1&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="HVxcus7WSnwF8_tyVSsU-16" target="HVxcus7WSnwF8_tyVSsU-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-16" value="Count += 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="510" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HVxcus7WSnwF8_tyVSsU-17" value="END" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="590" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

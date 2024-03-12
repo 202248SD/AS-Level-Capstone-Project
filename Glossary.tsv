@@ -4,7 +4,7 @@ BCD	BInary Coded Decimal	01.1 Data Representation
 BCS 	 British Computer Society.	01.1 Data Representation
 Binary	Numbers that consist of the digits 0 and 1.	01.1 Data Representation
 Bit 	 abbreviation for binary digit.	01.1 Data Representation
-By value 	 a method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.	01.1 Data Representation
+By value 	 a method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.  01.1 Data Representation
 Byte	A group of eight bits treated as a single unit 	01.1 Data Representation
 Candidate key 	 an attribute or smallest set of attributes in a	01.1 Data Representation
 Channels 	Channels are the number of separate recording elements in the data	01.1 Data Representation
@@ -31,8 +31,8 @@ Index (database) 	 a data structure built from one or more columns in a database
 Instance	a specific example of an object	01.1 Data Representation
 Instance variable 	 each object of a class has its own individual copy of this data	01.1 Data Representation
 intellectual property	something unique that has been physically created by someone (an idea that hasn’t been implemented is not intellectual property)	01.1 Data Representation
-Interlaced Encoding	Interlacing refers to the method of encoding two separate "fields" in a single frame by using alternating lines	01.1 Data Representation
-Interrupt 	 signal sent from a device or software to a processor request ing its att enti on; the processor suspends all operations until t he int err u pt has been serviced.	01.1 Data Representation
+Interlaced Encoding	Interlacing refers to the method of encoding two separate "fields" in a single frame by using alternating lines  01.1 Data Representation
+Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the interrupt has been serviced.	01.1 Data Representation
 Iterative model 	 a type of program development cycle in which a simple sub set of the requir ement s is de veloped, then	01.1 Data Representation
 Kibi	A prefix representing the factor 2^10(1024) written as the symbok Ki	01.1 Data Representation
 Lexical analysis 	 the first stage in the process of comp ilati on;	01.1 Data Representation

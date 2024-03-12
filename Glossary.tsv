@@ -31,7 +31,7 @@ Index (database) 	 a data structure built from one or more columns in a database
 Instance	a specific example of an object	01.1 Data Representation
 Instance variable 	 each object of a class has its own individual copy of this data	01.1 Data Representation
 intellectual property	something unique that has been physically created by someone (an idea that hasn’t been implemented is not intellectual property)	01.1 Data Representation
-Interlaced Encoding	Interlacing refers to the method of encoding two separate "fields" in a single frame by using alternating lines  01.1 Data Representation
+Interlaced Encoding	Interlacing refers to the method of encoding two separate 'fields' in a single frame by using alternating lines  01.1 Data Representation
 Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the interrupt has been serviced.	01.1 Data Representation
 Iterative model 	 a type of program development cycle in which a simple sub set of the requir ement s is de veloped, then	01.1 Data Representation
 Kibi	A prefix representing the factor 2^10(1024) written as the symbok Ki	01.1 Data Representation

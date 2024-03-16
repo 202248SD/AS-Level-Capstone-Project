@@ -166,8 +166,8 @@ Inheritance 	 process in which the methods and data from one class, a superclass
 Procedure 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the state ment s each time.	11.3 Structured Programming
 Segment number 	index number of a segment.	11.3 Structured Programming
 Upper bound 	the index of the last element in an array.	11.3 Structured Programming
-Adaptive maintenance  the alteration of a program to perform new tasks.  12.1 Program Development Lifecycle
-Analysis 	 part of the program development lifecycle; a process of investigation, leading to the specification of what a program is required to do.  12.1 Program Development Lifecycle
+Adaptive maintenance 	 the alteration of a program to perform new tasks. 	 12.1 Program Development Lifecycle
+Analysis 	 part of the program development lifecycle; a process of investigation, leading to the specification of what a program is required to do. 	 12.1 Program Development Lifecycle
 Corrective maintenance the correction of any errors that appear during use.	12.1 Program Development Lifecycle
 Maintenance 	 part of the program development lifecycle; the process of making sure that the program continues to work during use.	12.1 Program Development Lifecycle
 Modular Programming	Modular programming is the process of subdividing a computer program into separate sub-programs. A module is a separate software component. It can often be used in a variety of applications and functions with other components of the system. Similar functions are grouped in the same unit of programming code and separate functions are developed as separate units of code so that the code can be reused by other applications.	12.1 Program Development Lifecycle

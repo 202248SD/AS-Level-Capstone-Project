@@ -1,10 +1,10 @@
-Term  Definition  Topic
-ASCII code  coding system for all the characters on a keyboard and control codes.  01.1 Data Representation
-BCD  BInary Coded Decimal  01.1 Data Representation
-BCS  British Computer Society.  01.1 Data Representation
-Binary  Numbers that consist of the digits 0 and 1.  01.1 Data Representation
-Bit  abbreviation for binary digit.  01.1 Data Representation
-By value 	 a method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.  01.1 Data Representation
+Term	Definition	Topic
+ASCII code 	 coding system for all the characters on a keyboard and control codes.	01.1 Data Representation
+BCD	BInary Coded Decimal	01.1 Data Representation
+BCS 	 British Computer Society.	01.1 Data Representation
+Binary	Numbers that consist of the digits 0 and 1.	01.1 Data Representation
+Bit 	 abbreviation for binary digit.	01.1 Data Representation
+By value 	 a method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.	01.1 Data Representation
 Byte	A group of eight bits treated as a single unit 	01.1 Data Representation
 Candidate key 	 an attribute or smallest set of attributes in a	01.1 Data Representation
 Channels 	Channels are the number of separate recording elements in the data	01.1 Data Representation
@@ -17,8 +17,8 @@ Entity 	anything that can have data stored about it; for example, a person, plac
 Enumerated data type 	a non-composite data type defined by a given list of all possible values that has an implied order.	01.1 Data Representation
 ERD - Entity Relationship Diagram	Pictorial way of showing relationships between entities	01.1 Data Representation
 File 	a collection of data stored by a computer program to be used again.	01.1 Data Representation
-file header	region at the beginning of each file where bookeeping information (like file size) is kept.	01.1 Data Representation
-File organisation 	 the way that records of data are physically stored in a file, in cluding the structure and ordering of the records.	01.1 Data Representation
+file header	region at the beginning of each file where book keeping information (like file size) is kept.	01.1 Data Representation
+File organisation 	 the way that records of data are physically stored in a file, including the structure and ordering of the records.	01.1 Data Representation
 Flag 	indicates the status of a bit in the status register; for example, N = 1 indicates the result of an addition gives a negative value.	01.1 Data Representation
 Fragmented 	 storage of data in non	01.1 Data Representation
 Frame rate 	number of video frames that make up a video per second.	01.1 Data Representation
@@ -31,11 +31,11 @@ Index (database) 	 a data structure built from one or more columns in a database
 Instance	a specific example of an object	01.1 Data Representation
 Instance variable 	 each object of a class has its own individual copy of this data	01.1 Data Representation
 intellectual property	something unique that has been physically created by someone (an idea that hasn’t been implemented is not intellectual property)	01.1 Data Representation
-Interlaced Encoding	Interlacing refers to the method of encoding two separate 'fields' in a single frame by using alternating lines  01.1 Data Representation
-Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the interrupt has been serviced.	01.1 Data Representation
-Iterative model 	 a type of program development cycle in which a simple sub set of the requir ement s is de veloped, then	01.1 Data Representation
-Kibi	A prefix representing the factor 2^10(1024) written as the symbok Ki	01.1 Data Representation
-Lexical analysis 	 the first stage in the process of comp ilati on;	01.1 Data Representation
+Interlaced Encoding	Interlacing refers to the method of encoding two separate "fields" in a single frame by using alternating lines	01.1 Data Representation
+Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the int err u pt has been serviced.	01.1 Data Representation
+Iterative model 	 a type of program development cycle in which a simple subset of the requirements is developed, then	01.1 Data Representation
+Kibi	A prefix representing the factor 2^10(1024) written as the symbol KiBi	01.1 Data Representation
+Lexical analysis 	 the first stage in the process of compilation;	01.1 Data Representation
 Logical Schema	A logical schema is a data model of a specific problem domain expressed in terms of a particular data management technology. Without being specific to a particular database management product, it is in terms of either relational tables and columns, object-oriented classes, or XML tags.	01.1 Data Representation
 Lossy compression 	Is the class of data encoding methods that uses inexact approximations and partial removal of data  to represent the content in a smaller file 	01.1 Data Representation
 Lower bound 	 the index of the first element in an array, usually 0 or 1.	01.1 Data Representation
@@ -65,9 +65,9 @@ Enumerated	Data is put into numbers	01.2 Multimedia – Graphics, Sound
 Erasable PROM (EPROM) 	type of ROM that can be programmed more than once using ultra violet (UV) light.	01.2 Multimedia – Graphics, Sound
 Frame Rate	Frames per second	01.2 Multimedia – Graphics, Sound
 Frames 	 fixed	01.2 Multimedia – Graphics, Sound
-Icon 	 small picture or symbol used to represent, for example, an applica tion on a screen.	01.2 Multimedia – Graphics, Sound
+Icon 	 small picture or symbol used to represent, for example, an application on a screen.	01.2 Multimedia – Graphics, Sound
 Image resolution 	number of pixels that make up an image; for example, an image could contain 4096 x 3192 pixels (13 074432 pixels in total).	01.2 Multimedia – Graphics, Sound
-Intellectual property rights 	 rules governing an individual's owner ship of their own creatio ns or ideas, prohibiting the copyin g of, for exam ple, software without the owner's	01.2 Multimedia – Graphics, Sound
+Intellectual property rights 	 rules governing an individual's owner ship of their own creations or ideas, prohibiting the copying of, for example, software without the owner's	01.2 Multimedia – Graphics, Sound
 Interframe	An interframe is a frame in a video compression stream which is expressed in terms of one or more neighboring frames.	01.2 Multimedia – Graphics, Sound
 Intraframe	In a motion sequence, individual frames of pictures are grouped together	01.2 Multimedia – Graphics, Sound
 Lossy file compression 	 file compression method where parts of the original file cannot be recovered during decompression; some of the original detail is lost .	01.2 Multimedia – Graphics, Sound
@@ -75,19 +75,19 @@ MP3	A means of compressing a sound sequence into a very small file, to enable di
 MP3/MP4 files 	file compression method used for music and multimedia files.	01.2 Multimedia – Graphics, Sound
 On demand (bit streaming ) 	 system that allows users to stream video or music files from a central server as and when required without having to save the files on their own computer/ tablet/ phone.	01.2 Multimedia – Graphics, Sound
 Overclocking 	 changing the clock speed of a system clock to a value higher than the factory/recommended sett ing .	01.2 Multimedia – Graphics, Sound
-Perceptual music shapin g 	 method where sounds outside the normal range of hearing of humans, for example, are elimi nate d from the music file during compression.	01.2 Multimedia – Graphics, Sound
+Perceptual music shaping 	 method where sounds outside the normal range of hearing of humans, for example, are eliminated from the music file during compression.	01.2 Multimedia – Graphics, Sound
 Pixel 	 smallest picture element that makes up an image.	01.2 Multimedia – Graphics, Sound
 Pixel density 	number of pixels per square centimetre.	01.2 Multimedia – Graphics, Sound
 Pixels	A minute area of illumination on a display screen, one of many from which an image is composed.	01.2 Multimedia – Graphics, Sound
 PNG	Losslessly compressed image format used as a replacement for GIF	01.2 Multimedia – Graphics, Sound
-Real-time bit-streaming	The video is continiously created and streamed to another client	01.2 Multimedia – Graphics, Sound
-Resistive 	 type of touch screen technology; when a finger touches the screen, the glass layer touches the plastic layer, co mp leti ng the circuit and causing a current to flow at that point.	01.2 Multimedia – Graphics, Sound
+Real-time bit-streaming	The video is continuously created and streamed to another client	01.2 Multimedia – Graphics, Sound
+Resistive 	 type of touch screen technology; when a finger touches the screen, the glass layer touches the plastic layer, completing the circuit and causing a current to flow at that point.	01.2 Multimedia – Graphics, Sound
 Resolution 	 number of pixels per column and per row on a monitor or television screen.	01.2 Multimedia – Graphics, Sound
-Routing table 	 a data ta ble that contains the information necessary to forward a pa ckage along the shortest or best route to allow it to reach its destination.	01.2 Multimedia – Graphics, Sound
+Routing table 	 a data ta ble that contains the information necessary to forward a package along the shortest or best route to allow it to reach its destination.	01.2 Multimedia – Graphics, Sound
 Sampling rate	The number of times an analog signal is measured (sampled) per second.	01.2 Multimedia – Graphics, Sound
 Sampling rate 	number of sound samples taken per second.	01.2 Multimedia – Graphics, Sound
 Sampling resolution	Determines how many gradations of amplitude can be represented in the digital waveform	01.2 Multimedia – Graphics, Sound
-Sampling resolution/bit depth 	 number of bits used to represent sound amplit ud e.	01.2 Multimedia – Graphics, Sound
+Sampling resolution/bit depth 	 number of bits used to represent sound amplitude.	01.2 Multimedia – Graphics, Sound
 Screen resolution 	 number of horizontal and vertical pixels that make up a screen display; if the screen resolution is smaller than the image resolution, the whole image cannot be shown on the screen, or the original image will become lower quality .	01.2 Multimedia – Graphics, Sound
 Segment (transport layer) 	 this is a unit of data (packet) associated with the transport layer protocols.	01.2 Multimedia – Graphics, Sound
 SMTP 	 simple mail transfer protocol.	01.2 Multimedia – Graphics, Sound
@@ -99,11 +99,11 @@ Vectors	Created in graphic packages and are scalable.	01.2 Multimedia – Graphi
 Voice over Internet Protocol (VoIP) 	converts voice and webcam images into digital packages to be sent over the internet.	01.2 Multimedia – Graphics, Sound
 WAV (RIFF) file	A type of sound file. A multi-format file that contains a header and data.	01.2 Multimedia – Graphics, Sound
 Audio compression 	method used to reduce the size of a sound file using perceptual music shaping.	01.3 Compression
-Handshake 	A process where the client spcifies connection modes to the user as well as veryfying it is a legitimate website. There are many type of handshakes such as the SSL/TSL hanshake where the public key and compression techniques used between the two are chosen. 	01.3 Compression
+Handshake 	A process where the client specifies connection modes to the user as well as verifying it is a legitimate website. There are many type of handshakes such as the SSL/TSL handshake where the public key and compression techniques used between the two are chosen. 	01.3 Compression
 Hard disk drive (HOD) 	 type of magnetic storage device that uses spinning disks.	01.3 Compression
 JPEG	Bitmap based image format which utilizes lossy compression	01.3 Compression
-JPEG 	 Joint Photographic Expert Group ; a form of lossy file compr ession based on the inability of the eye to spot cert ain colour changes and hues.	01.3 Compression
-Lossless file compression 	 file compression method where the original file can be restored following decompr ession .	01.3 Compression
+JPEG 	 Joint Photographic Expert Group ; a form of lossy file compression based on the inability of the eye to spot cert ain colour changes and hues.	01.3 Compression
+Lossless file compression 	 file compression method where the original file can be restored following decompression .	01.3 Compression
 Progressive Encoding	progressive encoding A method of image encoding that uses multiple scans rather than a single scan.	01.3 Compression
 Spatial compression	A compression algorithm applied to a single frame of video independently.	01.3 Compression
 Swap space 	 space on HDD used in virtual memory, which saves process data.	01.3 Compression
@@ -115,7 +115,7 @@ Data type 	 a classification attributed to an item of data, which determines the
 Header (procedure or function) 	 the first state ment in the definition of a procedure or function, which contains its name, any parameters passed to it, and, for a function, the type of the return value.	10.1 Data Types and Records
 Identifier 	 a unique name applied to an item of data.	10.1 Data Types and Records
 identifier table	a table listing the variable identifier required for the solution, with explanations and data types.	10.1 Data Types and Records
-In demand paging 	 a form of data swapp in g where pages of data are not copied from HDD/SSD into RAM until they are actually requ ired .	10.1 Data Types and Records
+In demand paging 	 a form of data swapping where pages of data are not copied from HDD/SSD into RAM until they are actually required .	10.1 Data Types and Records
 Normal test data 	 test data that should be accepted by a program.	10.1 Data Types and Records
 Relationship	A relationship, in the context of databases, is a situation that exists between two relational database tables when one table has a foreign key that references the primary key of the other table. Relationships allow relational databases to split and store data in different tables, while linking disparate data items.	10.1 Data Types and Records
 state transition diagram	A graphical representation of a finite state machine	10.1 Data Types and Records
@@ -140,7 +140,7 @@ Element 	one item in a dictionary	11.1 Programming Basics
 Insertion sort 	 a method of sorting data in an array into	11.1 Programming Basics
 Instance 	 An occurrence of an object during the execution of a program.	11.1 Programming Basics
 Loopback address 	 127.0.0.1 a special address that hosts use to direct traffic to themselves (addresses 127.0.0.0 to 127.255.255.255 are reserved)	11.1 Programming Basics
-Modulo 11	method used to calculat e a check digit based on modulus division by 11.	11.1 Programming Basics
+Modulo 11	method used to calculate a check digit based on modulus division by 11.	11.1 Programming Basics
 Parameter 	a variable applied to a procedure or function that allows one to pass in a value for the procedure to use.	11.1 Programming Basics
 Property 	 data and methods within an object that per form a named action.	11.1 Programming Basics
 Pseudocode 	 a method of showing the detailed logical steps in an algorithm, using keywords, identifiers with meaningful names, and mathematical operators.	11.1 Programming Basics
@@ -161,20 +161,20 @@ event	Something that can happen within a system, such as a timer event, or an in
 Exception 	an unexpected event that disrupts the execution of a program.	11.3 Structured Programming
 Exception handling 	the process of responding to an exception within the program so that the program does not halt unexpectedly.	11.3 Structured Programming
 Extend 	a class which uses the functionality of an existing class, but also adds to or overwrites some of it	11.3 Structured Programming
-Imperative programming 	 program ming pa radigm in wh ich t he steps requ ired to execut e a program are set out in the orde r they need to be carried out .	11.3 Structured Programming
-Inheritance 	 process in which the methods and data from one class, a sup erclas s or base class, are copied to another class, a derived class.	11.3 Structured Programming
+Imperative programming 	 program ming paradigm in which the steps required to execute a program are set out in the order they need to be carried out .	11.3 Structured Programming
+Inheritance 	 process in which the methods and data from one class, a superclass or base class, are copied to another class, a derived class.	11.3 Structured Programming
 Procedure 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the state ment s each time.	11.3 Structured Programming
 Segment number 	index number of a segment.	11.3 Structured Programming
 Upper bound 	the index of the last element in an array.	11.3 Structured Programming
 Adaptive maintenance 	 the alteration of a program to perform new tasks.	12.1 Program Development Lifecycle
 Analysis 	 part of the program development lifecycle; a process of investigation, leading to the specification of what a program is required to do.	12.1 Program Development Lifecycle
-Corrective main tenance 	 the correction of any errors that appear during use.	12.1 Program Development Lifecycle
+Corrective maintenance the correction of any errors that appear during use.	12.1 Program Development Lifecycle
 Maintenance 	 part of the program development lifecycle; the process of making sure that the program continues to work during use.	12.1 Program Development Lifecycle
 Modular Programming	Modular programming is the process of subdividing a computer program into separate sub-programs. A module is a separate software component. It can often be used in a variety of applications and functions with other components of the system. Similar functions are grouped in the same unit of programming code and separate functions are developed as separate units of code so that the code can be reused by other applications.	12.1 Program Development Lifecycle
 Optimisation (compilation) 	the fourth stage in the process of compilation; the creation of an efficient object program.	12.1 Program Development Lifecycle
 Program development lifecycle 	 the process of developing a program set out in five stages: analysis, design, coding, testing and maintenance.	12.1 Program Development Lifecycle
 Thrash point 	point at which the execution of a process comes to a halt since the system is busier paging in/out of memory rather than actually executing them.	12.1 Program Development Lifecycle
-Waterfall model 	 a linear sequential program development cycle, in which each stage is completed before the next is begu n.	12.1 Program Development Lifecycle
+Waterfall model 	 a linear sequential program development cycle, in which each stage is completed before the next is begun.	12.1 Program Development Lifecycle
 Backus Naur form (BNF) notation 	a formal method of defining the grammatical rules of a programming language.	12.2 Program Design
 Design 	 part of the program development lifecycle; it uses the program specification from the analysis stage to show how the program should be developed .	12.2 Program Design
 finite state machine (FSM)	A system that consists of a fixed set of possible states with a set of allowable inputs that may change the state and a set of possible outputs	12.2 Program Design
@@ -191,7 +191,7 @@ Dry run 	a method of testing a program that involves working through a program o
 Integrated development environment (IDE) 	 a suite of programs used to write and test a computer program written in a hig h	12.3 Program Testing and maintenance
 Library routine 	a tested and ready-to-use routine available in the development system of a programming language that can be incorporated into a program.	12.3 Program Testing and maintenance
 Logic error 	 an error in the logic of a program.	12.3 Program Testing and maintenance
-Prettyprinting 	 the practice of displaying or printing well set out and formatted source code, making it easier to read and und ersta nd .	12.3 Program Testing and maintenance
+Prettyprinting 	 the practice of displaying or printing well set out and formatted source code, making it easier to read and understand .	12.3 Program Testing and maintenance
 Process states 	 running, ready and blocked; the states of a process requiring execution.	12.3 Program Testing and maintenance
 Program library 	a library on a computer where programs and routines are stored which can be freely accessed by other software developers for use in their own programs.	12.3 Program Testing and maintenance
 state transition table	A table that shows all the states of an FSM, all possible inputs and the state resulting from each input	12.3 Program Testing and maintenance
@@ -223,22 +223,22 @@ Header (data packet) 	part of a data packet containing key data such as destinat
 Karnaugh maps 	a diagram consisting of a rectangular array of squares, each representing a different combination of the variables of a Boolean function. 	14.1 Protocols
 MEO	operates at about 5000 to 12000 km away from the earth's surface.	14.1 Protocols
 Protocol 	 a set of rules governing communication across a network; the rules are agreed by both sender and recipient.	14.1 Protocols
-Public key infrastructure (PKI) 	 a set of protoco ls, standards and services that allow users to authenticate each other using digital certificates issued by a CA.	14.1 Protocols
-Rapid application development (RAD) 	 a type of program development cycle in which different parts of the requirements are developed in para llel, using prototyping to provide early user involvement in testing.	14.1 Protocols
+Public key infrastructure (PKI) 	 a set of protocols, standards and services that allow users to authenticate each other using digital certificates issued by a CA.	14.1 Protocols
+Rapid application development (RAD) 	 a type of program development cycle in which different parts of the requirements are developed in parallel, using prototyping to provide early user involvement in testing.	14.1 Protocols
 SMTP	A Simple Mail Transfer Protocol is a protocol used for email transfer	14.1 Protocols
 Switch 	 hardware used to connect together a number of devices to form a LAN; directs incoming data packets to a specific destination address only.	14.1 Protocols
 TCP 	 transmission control protocol.	14.1 Protocols
-Timeout 	 time allowed to elapse before anacknowledgement is received.	14.1 Protocols
+Timeout 	 time allowed to elapse before acknowledgement is received.	14.1 Protocols
 Torrent	protocol used in peer-to-peer networks when sharing files between peers.	14.1 Protocols
 Circuit Switching	This is where two computers establish a dedicated channel for communication	14.2 Circuit switching, packet switching
-Belady's anomaly 	phenomenon which means it is possible to have more page faults when increasing the number of page frames.	15.1 Processers, Parallel Processing and Virtual Machines
-CISC	Complex instruction set computer refers to computers designed with a full set of computer instructions that were intended to provide needed capabilities in the most efficient way	15.1 Processers, Parallel Processing and Virtual Machines
-First in first out (FIFO) page replac ement 	page replacement that keeps track of all pages in memory using a queue structure; the oldest page is at the front of the queue and is the first to be removed when a new page is added.	15.1 Processers, Parallel Processing and Virtual Machines
-Optimal page replacement 	 page replacement algorithm that looks forward in time to see which frame to replace in the event of a page fault.	15.1 Processers, Parallel Processing and Virtual Machines
-RISC	a computer based on a processor or processors designed to perform a limited set of operations extremely quickly.	15.1 Processers, Parallel Processing and Virtual Machines
-RISC processor 	Reduced instruction set processor - excutes cycles all together to be more efficient according to the click cycle 	15.1 Processers, Parallel Processing and Virtual Machines
-Round robin (scheduling) 	 scheduling algorithm that uses time slices assigned to each process in a job queue.	15.1 Processers, Parallel Processing and Virtual Machines
-SISD 	 single instruction single data, computer architecture which uses a single processor and one data source.	15.1 Processers, Parallel Processing and Virtual Machines
+Belady's anomaly 	phenomenon which means it is possible to have more page faults when increasing the number of page frames.	15.1 Processors, Parallel Processing and Virtual Machines
+CISC	Complex instruction set computer refers to computers designed with a full set of computer instructions that were intended to provide needed capabilities in the most efficient way	15.1 Processors, Parallel Processing and Virtual Machines
+First in first out (FIFO) page replacement 	page replacement that keeps track of all pages in memory using a queue structure; the oldest page is at the front of the queue and is the first to be removed when a new page is added.	15.1 Processors, Parallel Processing and Virtual Machines
+Optimal page replacement 	 page replacement algorithm that looks forward in time to see which frame to replace in the event of a page fault.	15.1 Processors, Parallel Processing and Virtual Machines
+RISC	a computer based on a processor or processors designed to perform a limited set of operations extremely quickly.	15.1 Processors, Parallel Processing and Virtual Machines
+RISC processor 	Reduced instruction set processor - executes cycles all together to be more efficient according to the click cycle 	15.1 Processors, Parallel Processing and Virtual Machines
+Round robin (scheduling) 	 scheduling algorithm that uses time slices assigned to each process in a job queue.	15.1 Processors, Parallel Processing and Virtual Machines
+SISD 	 single instruction single data, computer architecture which uses a single processor and one data source.	15.1 Processors, Parallel Processing and Virtual Machines
 Combination circuit 	 circuit in which the output depends entirely on the input values.	15.2 Boolean Algebra and Logic Circuits
 De Morgan's law	A transformation rule that are both valid rules of inference	15.2 Boolean Algebra and Logic Circuits
 Flip	flop circuits 	15.2 Boolean Algebra and Logic Circuits
@@ -248,17 +248,17 @@ Device Drivers	A device driver is a program that controls a particular type of d
 Emulation 	the use of an app/device to imitate the behaviour of another program/device; for example, running an OS on a computer which is not normally compatible.	16.1 Purposes of an Operating System (OS)
 Guest OS 	 an OS running on a virtual machine.	16.1 Purposes of an Operating System (OS)
 Translation lookaside buffer (TLB) 	 this is a memory cache which can reduce the time taken to access a user memory location; it is part of the memory management un it.	16.1 Purposes of an Operating System (OS)
-Reverse Polish notation (RPN) 	 a method of representing an arit h met ical expression without the use of brackets or special punctuation.	16.2 Translation Software
-Syntax analysis 	 the second stage in the process of compilation; output from the Lexical analysis is checked for gra mm atica l (syntax) errors.	16.2 Translation Software
-Translator 	the systems software used to translat e a source program written in any language other than machine code.	16.2 Translation Software
+Reverse Polish notation (RPN) 	 a method of representing an arithmetical expression without the use of brackets or special punctuation.	16.2 Translation Software
+Syntax analysis 	 the second stage in the process of compilation; output from the Lexical analysis is checked for grammatical (syntax) errors.	16.2 Translation Software
+Translator 	the systems software used to translate a source program written in any language other than machine code.	16.2 Translation Software
 Asymmetric encryption 	 encryption that uses public keys (known to everyone) and private keys (secret keys).	17.1 Encryption, Encryption Protocols and Digital certificates
 BitTorrent 	 protocol used in peer	17.1 Encryption, Encryption Protocols and Digital certificates
-Digital certificate 	 an electronic document used to prove the identity of a website or ind ividual ; it conta ins a public key and information identifying the website owner or ind ividual ; issued by a CA.	17.1 Encryption, Encryption Protocols and Digital certificates
+Digital certificate 	 an electronic document used to prove the identity of a website or individual ; it contains a public key and information identifying the website owner or individual ; issued by a CA.	17.1 Encryption, Encryption Protocols and Digital certificates
 Handshake 	 the process of initiating communication between two devices; this is initiated by one device sending a message to another device requesting the exchange of data.	17.1 Encryption, Encryption Protocols and Digital certificates
 Plain Text	Text that is not computationally tagged, specially formatted, or written in code.	17.1 Encryption, Encryption Protocols and Digital certificates
-Plaintext 	 the orig inal textjdocument/message before it is put through an encryption algorit hm .	17.1 Encryption, Encryption Protocols and Digital certificates
+Plaintext 	 the original text/document/message before it is put through an encryption algorithm .	17.1 Encryption, Encryption Protocols and Digital certificates
 Public Key	A cryptography key that can be obtained and used by anyone to encrypt messages intended for a particular recipient.	17.1 Encryption, Encryption Protocols and Digital certificates
-Quantum cryptography 	 cryptography based on the laws of quantum mechanics (the properti es of photon s).	17.1 Encryption, Encryption Protocols and Digital certificates
+Quantum cryptography 	 cryptography based on the laws of quantum mechanics (the properties of photon s).	17.1 Encryption, Encryption Protocols and Digital certificates
 SSL 	Secure socket layer - technology is a standard for encrypted client/server network connections. Usually used in web shopping	17.1 Encryption, Encryption Protocols and Digital certificates
 Symmetric encryption 	 encryption in which the same secret key is used to encrypt and decrypt messages.	17.1 Encryption, Encryption Protocols and Digital certificates
 Tracker 	 central server that stores details of all other computers in the swarm.	17.1 Encryption, Encryption Protocols and Digital certificates
@@ -275,7 +275,7 @@ Qubit 	 the basic unit of a quantum of information (quantum bit).	18.1 Artificia
 Regression 	 statistical measure used to make predictions from data by finding learning relationships between the inputs	18.1 Artificial Intelligence
 Reinforcement learning 	 system which is given no training; learns on basis of reward and punishment.	18.1 Artificial Intelligence
 Reward and punishment 	improvements to a model based on whether feedback is positive or negative; actions are optimised to receive an increase in positive feedback.	18.1 Artificial Intelligence
-Supervised learning 	 system which is able to predict future outcomes based on past data; it requir es both input and output values to be used in the training process.	18.1 Artificial Intelligence
+Supervised learning 	 system which is able to predict future outcomes based on past data; it requires both input and output values to be used in the training process.	18.1 Artificial Intelligence
 Unsupervised learning 	 system which is able to identify hidden patterns from input data; the system is not trained on the 'right' answer.	18.1 Artificial Intelligence
 A* algorithm 	 an algorithm that finds the shortest route between nodes or vertices but uses an additional heuristic approach to achieve better performance than Dijkstra's algorithm.	19.1 Algorithms
 Binary search 	a method of searching an ordered list by testing the value of t he middle item in the list and rejecting the half .of the list that does not contain the required value.	19.1 Algorithms
@@ -284,14 +284,14 @@ Boolean	A data type that only has two values, true or false	19.1 Algorithms
 Boolean algebra 	 a form of algebra linked to logic circuits and based on TRUE and FALSE.	19.1 Algorithms
 Bootstrap 	 a small program that is used to load other programs to 'start up' a computer.	19.1 Algorithms
 Boundary test data 	 test data that is on the limit of that accepted by a program or data that is just outside the limit of that rejected by a program.	19.1 Algorithms
-Breakp oint 	 a deliberate pause in the execution of a program during testing so that the contents of variables, registers, and so on can be inspected to aid debugging.	19.1 Algorithms
+Breakpoint 	 a deliberate pause in the execution of a program during testing so that the contents of variables, registers, and so on can be inspected to aid debugging.	19.1 Algorithms
 Bridge 	 device that connects LANs which use the same protocols.	19.1 Algorithms
 Broadcast 	 communication where pieces of data are sent from sender to receiver.	19.1 Algorithms
 buffer	Where information loaded from the internet is temporarily stored in this cache, so that a slow connection doesn't cause buffering of data, commonly used for videos 	19.1 Algorithms
 Burst time 	 the time when a process has control of the CPU .	19.1 Algorithms
 Bus network topology 	 network using single central cable in which all devices are connected to this cable; data can only travel in one direction and only one device is allowed to transmit at a time.	19.1 Algorithms
 By reference 	 a method of passing a parameter to a procedure in which the value of the variable can be changed by the procedure.	19.1 Algorithms
-Least recently used (LRU) page replacement 	 page replacement algorithm in which the page which has not been used for the long est time is replac ed.	19.1 Algorithms
+Least recently used (LRU) page replacement 	 page replacement algorithm in which the page which has not been used for the longest time is replaced.	19.1 Algorithms
 Segment map table 	 table containing the segment number, segment size and corresponding memory location in physical memory; it maps logical memory segments to physical memory.	19.1 Algorithms
 Structure chart 	 a modelling tool used to decompose a problem into a set of sub	19.1 Algorithms
 Variable 	 a named value that can change during the execution of a program.	19.1 Algorithms
@@ -301,14 +301,14 @@ Recursion	See recursion (The repeated application of a recursive procedure or de
 (W)AP 	 (wireless) access point which allows a device to access a LAN without a wired connection.	2.1 Networks including the internet
 1Pv4 	 IP addr ess format which uses 32 bits, such as 200.21.100.6.	2.1 Networks including the internet
 1Pv6 	Newer IP address format which uses 128 bits, such as A8F0:7FFF:FO F1: F000:3 DDO : 256 A: 22FF: AAOO.	2.1 Networks including the internet
-Wi-FI	wireless connect ivity that uses radio waves & microwaves.	2.1 Networks including the internet
+Wi-FI	wireless connectivity that uses radio waves & microwaves.	2.1 Networks including the internet
 ARPAnet 	 Advanced Research Projects Agency Network.	2.1 Networks including the internet
 Asynchronous serial data transmission 	 serial refers to a single wire being used to transmit bits of data one after the other; asynchronous refers to a sender using its own clock/ timer device rather sharing the same clock/timer with the recipient device.	2.1 Networks including the internet
 Attenuation	deterioration of signal	2.1 Networks including the internet
 Bidirectional 	used to describe a bus in which bits can travel in both directions.	2.1 Networks including the internet
 CIDR	Classless Inter-Domain Routing, sometimes called supernetting is a way to allow more flexible allocation of Internet Protocol (IP) addresses than was possible with the original system of IP address classes. 	2.1 Networks including the internet
 Classless inter-domain routing (CIDR)	increases IPv4 flexibility by adding a suffix to the IP address, such as 200.21.100.6/18.	2.1 Networks including the internet
-Client side scripting 	When the code for the web page is proccessed on the users machine itself 	2.1 Networks including the internet
+Client side scripting 	When the code for the web page is processed on the users machine itself 	2.1 Networks including the internet
 Cloud storage 	 method of data storage where data is stored on off-site server 	2.1 Networks including the internet
 Coaxial cable	Cable made up of central copper core, insulation, copper mesh and outer insulation	2.1 Networks including the internet
 Collision 	 situation in which two messages/data from different sources are trying to transmit along the same data channel.	2.1 Networks including the internet
@@ -336,11 +336,11 @@ Hub 	 hardware used to connect together a number of devices to form a LAN; direc
 Hybrid network 	 network made up of a combination of other network topologies .	2.1 Networks including the internet
 ICMP	An error reporting protocol that creates and sends the message to the Source IP when IP packet cannot be sent.	2.1 Networks including the internet
 IGMP	The Internet Group Management Protocol is a communications protocol used by hosts and adjacent routers on IPv4 networks to establish multicast group memberships	2.1 Networks including the internet
-IMAP 	 int erne t message access proto col.	2.1 Networks including the internet
+IMAP 	 internet message access protocol.	2.1 Networks including the internet
 Internet	A global system of interconnected computer networks that use TCP/IP to link several billions of devices	2.1 Networks including the internet
-Internet 	 massive network of networks, made up of comput ers and other elect ronic devices; uses TCP/IP commun ication protocol s.	2.1 Networks including the internet
+Internet 	 massive network of networks, made up of computers and other electronic devices; uses TCP/IP communication protocols.	2.1 Networks including the internet
 Internet protocol (IP) 	 uses 1Pv4 or 1Pv6 to give addresses to devices connected to the internet.	2.1 Networks including the internet
-Internet service provider {ISP) 	 company which allows a user to connect to the int ern et; they will usually charge a mont hly fee for the service they provid e.	2.1 Networks including the internet
+Internet service provider {ISP) 	 company which allows a user to connect to the internet; they will usually charge a monthly fee for the service they provide.	2.1 Networks including the internet
 IP address	An internet protocol where each computer is uniquely identified in internet	2.1 Networks including the internet
 IPv4	uses a 32-bit address scheme allowing for a total of 2^32 addresses (just over 4 billion addresses).	2.1 Networks including the internet
 IPv6 	are 128-bit IP address written in hexadecimal and separated by colons. 	2.1 Networks including the internet
@@ -351,13 +351,13 @@ Latency 	 the lag in a system; for exa mp le, the time to find a track on a hard
 LEO	operate at a distance of about 500-1500 km.	2.1 Networks including the internet
 Link-Local address 	 169.254.0.0 to 169.254.255.255 (169.254.0.0/16) addresses can be automatically assigned to the local host	2.1 Networks including the internet
 MAN 	metropolitan area network (network which is larger than a LAN but smaller than a WAN; can cover several buildings in a single city, such as a university campus).	2.1 Networks including the internet
-Massively parallel computers 	 the linking together of several computers effectively forming one machine with thousands of proces sors.	2.1 Networks including the internet
-Mesh network topology 	 i nt erlink ed computers/devices, which use routing logic so data packets are sent from sending statjons to receiving stations only by the shortest route.	2.1 Networks including the internet
+Massively parallel computers 	 the linking together of several computers effectively forming one machine with thousands of processors.	2.1 Networks including the internet
+Mesh network topology 	 interlinked computers/devices, which use routing logic so data packets are sent from sending stations to receiving stations only by the shortest route.	2.1 Networks including the internet
 Modem 	 modulator demodulator; device which converts digital data to analogue data (to be sent down a telephone wire); conversely it also converts analogue data to digital data (which a computer can process).	2.1 Networks including the internet
 Network	a collection of computers, servers, mainframes, network devices, peripherals, or other devices connected to one another to allow the sharing of data.	2.1 Networks including the internet
 Network and Broadcast addresses 	 within each network the first and last addresses cannot be assigned to hosts	2.1 Networks including the internet
 NIC 	 network interface card; these cards allow devices to connect to a network/internet (usually associated with a MAC address set at the factory).	2.1 Networks including the internet
-Node 	 device connected to a network (it can be a computer, storage device or per i phera l device).	2.1 Networks including the internet
+Node 	 device connected to a network (it can be a computer, storage device or peripheral device).	2.1 Networks including the internet
 On-demand bit-streaming	A video file is stored on a server and transmitted to a clients computer	2.1 Networks including the internet
 Packet 	 a message/data is split up into smaller groups of bits for transmission over a network.	2.1 Networks including the internet
 Packet switching 	method of transmission where a message is broken into packets which can be sent along paths independently from each other.	2.1 Networks including the internet
@@ -369,10 +369,10 @@ Private IP address 	 an IP address reserved for internal network use behind a ro
 Protocol	A set of rules or procedures for transmitting data between electronic devices, such as computers.	2.1 Networks including the internet
 Public IP address 	an IP address allocated by the user's ISP to identify the location of their device on the internet.	2.1 Networks including the internet
 Public switched telephone network (PSTN) 	 network used by traditional telephones when making calls or when sending faxes. '	2.1 Networks including the internet
-Pull protocol 	 protocol used when receiving emails, in which the client periodically connects to a server, checks for and downloads new emails from a server and then closes the con nection .	2.1 Networks including the internet
-Push protocol 	 protocol used when sending emails, in which the client opens the connection to the server and keeps the connection active all the time, then upl oads new emails to the server.	2.1 Networks including the internet
+Pull protocol 	 protocol used when receiving emails, in which the client periodically connects to a server, checks for and downloads new emails from a server and then closes the connection .	2.1 Networks including the internet
+Push protocol 	 protocol used when sending emails, in which the client opens the connection to the server and keeps the connection active all the time, then uploads new emails to the server.	2.1 Networks including the internet
 Repeater 	 device used to boost a signal on both wired and wireless networks.	2.1 Networks including the internet
-Repeating hubs 	 network devices which are a hybrid of hub and repeate r unit.	2.1 Networks including the internet
+Repeating hubs 	 network devices which are a hybrid of hub and repeater unit.	2.1 Networks including the internet
 Router 	 device which enables data packets to be routed between different networks (for example, can join LA Ns to form a WAN).	2.1 Networks including the internet
 Seed 	 a peer that has downloaded a file (or pieces of a file) and has then made it available to other peers in the swarm.	2.1 Networks including the internet
 Server side scripting 	A technique used in web development which involves employing scripts on a web server which produce a response customised for each client's request	2.1 Networks including the internet
@@ -384,13 +384,13 @@ TEST-NET addresses 	 192.0.2.0 to 192.0.2.255 (192.0.2.0/24) set aside for teach
 Thick client 	 device which can work both off Line and on line and is able to do some processing even if not connected to a network/internet.	2.1 Networks including the internet
 Topology	Schematic description of the arrangement of a network, including its nodes and connecting lines	2.1 Networks including the internet
 Twisted pair cable	is a type of cable made by putting two separate insulated wires together in a twisted pattern and running them parallel to each other. This type of cable is widely used in different kinds of data and voice infrastructures.	2.1 Networks including the internet
-Uniform resource locator (URL) 	 specifies location of a web page (for examp le, www.hodd ereducat ion. co. uk) .	2.1 Networks including the internet
+Uniform resource locator (URL) 	 specifies location of a web page (for example, www.hoddereducation. co. uk) .	2.1 Networks including the internet
 URL	URL stands for Universal Resource Locator. It’s a way of accessing the Internet.	2.1 Networks including the internet
-WAN 	 wide area network (network coveri ng a very large geographical a rea).	2.1 Networks including the internet
-Web addresses	interprets web pages sent to a user's compu t er so that documents and multimedia can be read or watch ed/ listened to.	2.1 Networks including the internet
+WAN 	 wide area network (network covering a very large geographical a rea).	2.1 Networks including the internet
+Web addresses	interprets web pages sent to a user's computer so that documents and multimedia can be read or watched/ listened to.	2.1 Networks including the internet
 WLAN 	 wireless LAN.	2.1 Networks including the internet
-WNIC 	 wireless network interface cards/cont rollers.	2.1 Networks including the internet
-WPAN 	wireless personal area net work; a local wireless network which connects together devices in very close proximit (such as in a user's house); typical devices would be a laptop, smart phone, tablet and printer.	2.1 Networks including the internet
+WNIC 	 wireless network interface cards/controllers.	2.1 Networks including the internet
+WPAN 	wireless personal area net work; a local wireless network which connects together devices in very close proximity (such as in a user's house); typical devices would be a laptop, smart phone, tablet and printer.	2.1 Networks including the internet
 www	is a network of online content that is formatted in HTML and accessed via HTTP. The term refers to all the interlinked HTML pages that can be accessed over the Internet. 	2.1 Networks including the internet
 Class	a template defining the methods and data of a certain type of object.	20.1 Programming Paradigms
 Class variable 	 a single copy of this data exists across all objects of a class	20.1 Programming Paradigms
@@ -418,9 +418,9 @@ Second normal form (2NF) 	the status of a relational database in which entities 
 Binder 3D printing 	3D printing method that uses a two-stage pass; the first stage uses dry powder and the second stage uses a binding agent	3.1 Computers and their components
 Cluster 	 a number of computers (containing SIMD processors) networked together.	3.1 Computers and their components
 CMOS 	complementary metal-oxide semiconductor.	3.1 Computers and their components
-Digest 	-a fixed-size numeric representation of the contents of a message produced from a hashing algorithm; this can be encrypted to form a digita l signature.	3.1 Computers and their components
+Digest 	-a fixed-size numeric representation of the contents of a message produced from a hashing algorithm; this can be encrypted to form a digital signature.	3.1 Computers and their components
 Digital to analogue converter (DAC) 	 needed to convert digital data into electric currents that can drive motors, actuators and relays, for example.	3.1 Computers and their components
-Direct 3D printing 	 3D printing technique where print head moves in the x, y and z directions. Layers of melted material are bui lt up using nozzles like an inkjet printer.	3.1 Computers and their components
+Direct 3D printing 	 3D printing technique where print head moves in the x, y and z directions. Layers of melted material are built up using nozzles like an inkjet printer.	3.1 Computers and their components
 Direct memory access (OMA) controller 	device that allows certain hardware to access RAM independently of the CPU.	3.1 Computers and their components
 Dirty 	 The term used to describe a page in memory that has been modified.	3.1 Computers and their components
 Dual core 	a CPU containing two cores.	3.1 Computers and their components
@@ -433,7 +433,7 @@ GUI 	 graphical user interface.	3.1 Computers and their components
 Hardware management 	part of the operating system that controls all input/output devices connected to a computer (made up of sub-management systems such as printer management, secondary storage management, and so on).	3.1 Computers and their components
 High definition multimedia interface (HDMI) 	a standard for connecting high-definition video devices	3.1 Computers and their components
 Interrupt service routine (ISR) or interrupt handler 	software which handles interrupt requests (such as 'printer out of paper') and sends the request to the CPU for processing.	3.1 Computers and their components
-Leech 	 a peer with negative feedback from swarm memb ers.	3.1 Computers and their components
+Leech 	 a peer with negative feedback from swarm members.	3.1 Computers and their components
 Low level scheduling 	method by which a system assigns a processor to a task or process based on the priority level.	3.1 Computers and their components
 Memory dump 	 contents of a computer memory output to screen or printer.	3.1 Computers and their components
 Memory optimisation 	function of memory management that determines how memory is allocated and deallocated.	3.1 Computers and their components
@@ -445,58 +445,58 @@ Organic LED (OLED) 	 uses movement of electrons between cathode and anode to pro
 Paging 	 form of.memory management which divides up physical memory and logical memory into fixed pages	3.1 Computers and their components
 Physical memory 	 main/primary RAM memory.	3.1 Computers and their components
 Pinching and rotating 	 actions by fingers on a touch screen to carry out tasks such as move, enlarge, reduce, and so on.	3.1 Computers and their components
-Port 	 external connection to a computer which allows it to communicate with various peripheral devices; a number of different port tec hn ologies exist.	3.1 Computers and their components
+Port 	 external connection to a computer which allows it to communicate with various peripheral devices; a number of different port technologies exist.	3.1 Computers and their components
 Primary Storage	This is RAM	3.1 Computers and their components
-Program counter (PC) 	 a register used in a computer to store the address of the instruction which is curr entl y being executed.	3.1 Computers and their components
+Program counter (PC) 	 a register used in a computer to store the address of the instruction which is currently being executed.	3.1 Computers and their components
 PSTN	Public Switched Telephone Network consists of telephone lines, fiber optic cables, microwave transmission links, cellular networks, communications satellites, and undersea telephone cables, all interconnected by switching centers, thus allowing most telephones to communicate with each other.	3.1 Computers and their components
-RAM 	Random acces memory - Computer storage memory which is volatile. It allows recent application data to be saved while being  used for speed 	3.1 Computers and their components
+RAM 	Random access memory - Computer storage memory which is volatile. It allows recent application data to be saved while being  used for speed 	3.1 Computers and their components
 Random access 	When disc is read and written to anywhere on the file 	3.1 Computers and their components
 Read only memory (ROM) 	primary memory unit that can only be read from	3.1 Computers and their components
 ROM	Read only memory - Computer hardware that stores programs or data that cannot be added to, modified, or deleted	3.1 Computers and their components
 Scheduling 	 process manager which handles the removal of running programs from the CPU and the selection of new processes.	3.1 Computers and their components
 Secondary Storage	Hard Disks, Optical Drives and removable memory	3.1 Computers and their components
 Sensor 	 input device that reads physical data from its surroundings.	3.1 Computers and their components
-Solid state drive (SSD} 	 storage media with no moving parts that relies on movement of elect rons.	3.1 Computers and their components
+Solid state drive (SSD} 	 storage media with no moving parts that relies on movement of electrons.	3.1 Computers and their components
 Spread spectrum technology 	 wideband radio frequency with a range of 30 to 50 metres.	3.1 Computers and their components
 SRAM	Static Random Access Memory	3.1 Computers and their components
 Static RAM (SRAM) 	 type of RAM chip that uses flip	3.1 Computers and their components
 Status register 	 used when an instruction requires some form of arithmetic or Logical processing .	3.1 Computers and their components
-Super computer 	 a powerfu l ma inframe computer.	3.1 Computers and their components
+Super computer 	 a powerful mainframe computer.	3.1 Computers and their components
 Switch	is a computer networking device that connects devices together on a computer network by using packet switching to receive, process, and forward data to the destination device. There's one in S1.	3.1 Computers and their components
 Thin client 	 device that needs access to the internet for it to work; it depends on a more powerful computer for processing.	3.1 Computers and their components
-Touch screen 	 screen on wh ich the touch of a fing er or stylus allows selectio n or manip ulatio n of a screen image; they usua lly use capaci tive or resistive technology.	3.1 Computers and their components
-Twisted pair cable 	 type of cable in which two wires of a single ci rcuit are twisted toget her; several t wisted pairs make up a single cable.	3.1 Computers and their components
-Utility program 	 parts of the operating system which carry out certain functions , such as virus checking, defrag mentation or hard disk form atting .	3.1 Computers and their components
-Video Graphics Array (VGA) 	 type of port connect ing devices to a computer.	3.1 Computers and their components
-Virtual reality headset 	 apparatus worn on the he ad that covers the eyes like a pair of goggl es; it gives t he user the 'feeling of being t here' by imm ersi ng them tot ally in the virtual reality experi ence.	3.1 Computers and their components
+Touch screen 	 screen on which the touch of a finger or stylus allows selection or manipulation of a screen image; they usually use capacitive or resistive technology.	3.1 Computers and their components
+Twisted pair cable 	 type of cable in which two wires of a single circuit are twisted together; several t wisted pairs make up a single cable.	3.1 Computers and their components
+Utility program 	 parts of the operating system which carry out certain functions , such as virus checking, defragmentation or hard disk formatting .	3.1 Computers and their components
+Video Graphics Array (VGA) 	 type of port connecting devices to a computer.	3.1 Computers and their components
+Virtual reality headset 	 apparatus worn on the head that covers the eyes like a pair of goggles; it gives the user the 'feeling of being t here' by immersing them totally in the virtual reality experience.	3.1 Computers and their components
 Arithmetic Logic Unit	logic unit (ALU) 	3.2 Logic Gates and Logic Circuits
 Karnaugh map	A diagram set to minimize Boolean expressions without having to use Boolean algebra theorems and equation manipulations	3.2 Logic Gates and Logic Circuits
 Logic circuit 	 formed from a combination of logic gates and designed to carry out a particular task; the output from a logic circuit will be O or 1.	3.2 Logic Gates and Logic Circuits
-Logic gate	Basic digital element for bulding a circuit, 1 is on and 0 is off	3.2 Logic Gates and Logic Circuits
+Logic gate	Basic digital element for building a circuit, 1 is on and 0 is off	3.2 Logic Gates and Logic Circuits
 Logic gates 	 electronic circuits which rely on 'o n/o ff' logic; the most common ones are NOT, AND, OR, NAND, NOR and XOR.	3.2 Logic Gates and Logic Circuits
 Mask 	 a number that is used with the logical operators AND, OR or XOR to identify, remove or set a single bit or group of bits in an address or register.	3.2 Logic Gates and Logic Circuits
-Sequential circuit 	 circuit in which the output depends on input values produced from pr vious output values.	3.2 Logic Gates and Logic Circuits
+Sequential circuit 	 circuit in which the output depends on input values produced from previous output values.	3.2 Logic Gates and Logic Circuits
 Truth table 	 a method of checking the output from a logic	3.2 Logic Gates and Logic Circuits
-Accumulator	A general purpose register that stores a balue before and after the exectution of an instruction by the ALU	4.1 Central Processing Unit (CPU) Architecture
+Accumulator	A general purpose register that stores a value before and after the execution of an instruction by the ALU	4.1 Central Processing Unit (CPU) Architecture
 Accumulator 	 temporary general purpose register which stores numerical values at any part of a given operation.	4.1 Central Processing Unit (CPU) Architecture
 Address bus 	 carries the addresses throughout the computer system.	4.1 Central Processing Unit (CPU) Architecture
-Clock cycle 	 clock speeds are measured in terms of GHz; this is the vibra t io nal frequ ency of the clock which sends out pulses along the control bus; a 3.5 GHZ clock cycle means 3.5 billion clock cycles a second.	4.1 Central Processing Unit (CPU) Architecture
+Clock cycle 	 clock speeds are measured in terms of GHz; this is the vibrational frequency of the clock which sends out pulses along the control bus; a 3.5 GHZ clock cycle means 3.5 billion clock cycles a second.	4.1 Central Processing Unit (CPU) Architecture
 Context switching 	 procedure by which, when the next process takes control of the CPU, its previous state is reinstated or restored.	4.1 Central Processing Unit (CPU) Architecture
-CPU	Central proccessing unit -  Process all the instructions in the computer by doing basic arithmethics 	4.1 Central Processing Unit (CPU) Architecture
-Data Bus	A component that carries data to and from the proccesor allows data to be carried from processor to memory (and vice versa) or to and from input/output devices	4.1 Central Processing Unit (CPU) Architecture
+CPU	Central processing unit -  Process all the instructions in the computer by doing basic arithmetic 	4.1 Central Processing Unit (CPU) Architecture
+Data Bus	A component that carries data to and from the processor allows data to be carried from processor to memory (and vice versa) or to and from input/output devices	4.1 Central Processing Unit (CPU) Architecture
 Dijkstra's algorithm 	 an algorithm that finds the shortest path between two nodes or vertices in a graph/ network.	4.1 Central Processing Unit (CPU) Architecture
 Direct access 	 a method of file access in which a record can be physically found in a file without physically reading other records.	4.1 Central Processing Unit (CPU) Architecture
 Function 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the statements each time. Unlike a procedure, a function always returns a value.	4.1 Central Processing Unit (CPU) Architecture
-Immediate access store {IAS) 	 holds all data and program s needed to be acce ssed by the control un it .	4.1 Central Processing Unit (CPU) Architecture
+Immediate access store {IAS) 	 holds all data and program s needed to be accessed by the control un it .	4.1 Central Processing Unit (CPU) Architecture
 Instruction 	a single operation performed by a CPU.	4.1 Central Processing Unit (CPU) Architecture
-Instruction set 	 the complete set of machine code inst ru ctio ns used by a CPU .	4.1 Central Processing Unit (CPU) Architecture
-Interrupt dispatch table {IDT) 	 data structure used to imp lement a n int err upt vector table.	4.1 Central Processing Unit (CPU) Architecture
-Interrupt priority 	 all int errupt s are given a priority so that the processor kn ows wh ich need to be serviced first and	4.1 Central Processing Unit (CPU) Architecture
-Interrupt priority levels {IPL) 	 va lues given to int errup t s based on val ues O to 31.	4.1 Central Processing Unit (CPU) Architecture
+Instruction set 	 the complete set of machine code instructions used by a CPU .	4.1 Central Processing Unit (CPU) Architecture
+Interrupt dispatch table {IDT) 	 data structure used to implement a n int err upt vector table.	4.1 Central Processing Unit (CPU) Architecture
+Interrupt priority 	 all interrupts are given a priority so that the processor kn ows wh ich need to be serviced first and	4.1 Central Processing Unit (CPU) Architecture
+Interrupt priority levels {IPL) 	 values given to interrupts based on val ues O to 31.	4.1 Central Processing Unit (CPU) Architecture
 Interrupts	 A signal that gets the attention of the CPU and is usually generated when I/O is required.	4.1 Central Processing Unit (CPU) Architecture
 Memory cache 	 high speed memory external to processor which stores data which the processor will need again.	4.1 Central Processing Unit (CPU) Architecture
 MISD 	 multiple instruction single data, computer architecture which uses many processors but the same shared data source.	4.1 Central Processing Unit (CPU) Architecture
-Optimisation (memory management) 	 function of memory management deciding which proce sses should be in main memory and where they should be stored.	4.1 Central Processing Unit (CPU) Architecture
+Optimisation (memory management) 	 function of memory management deciding which processes should be in main memory and where they should be stored.	4.1 Central Processing Unit (CPU) Architecture
 Overflow 	 the result of carrying out a calculation which produces a value too large for the computer's allocated word size.	4.1 Central Processing Unit (CPU) Architecture
 Process 	 a program that has started to be executed.	4.1 Central Processing Unit (CPU) Architecture
 Process control block (PCB) 	 data structure which contains all the data needed for a process to run.	4.1 Central Processing Unit (CPU) Architecture
@@ -505,11 +505,11 @@ Quad core 	 a CPU containing four cores.	4.1 Central Processing Unit (CPU) Archi
 Register 	 temporary component in the processor which can be general or specific in its use; holds data or instructions as part of the fetch	4.1 Central Processing Unit (CPU) Architecture
 Register Transfer Notation (RTN) 	 short hand notation to show movement of data and instructions in a processor, can be used to represent the operation of the fetch	4.1 Central Processing Unit (CPU) Architecture
 Server	CPUs which perform backend tasks, such as controlling printers, managing information, running databases and so on	4.1 Central Processing Unit (CPU) Architecture
-SIMD 	 single instruction mu ltip le data, computer architecture which uses many processors and different data inputs.	4.1 Central Processing Unit (CPU) Architecture
+SIMD 	 single instruction multiple data, computer architecture which uses many processors and different data inputs.	4.1 Central Processing Unit (CPU) Architecture
 Star Network	Topology in a local area network (LAN) in which all nodes (workstations or other devices) are directly connected to a common central computer. 	4.1 Central Processing Unit (CPU) Architecture
 System clock 	 produces timing signals on the control bus to ensure synchronisation takes place.	4.1 Central Processing Unit (CPU) Architecture
 Unidirectional 	 used to describe a bus in which bits can travel in one direction only.	4.1 Central Processing Unit (CPU) Architecture
-USB (Universal Serial Bus)	A port that can be used to attatch peripherials	4.1 Central Processing Unit (CPU) Architecture
+USB (Universal Serial Bus)	A port that can be used to attach peripherals	4.1 Central Processing Unit (CPU) Architecture
 Absolute addressing 	 mode of addressing in which the contents of the memory location in the operand are used.	4.2 Assembly Language
 Addressing modes 	 different methods of using the operand part of a machine code instruction as a memory address.	4.2 Assembly Language
 Assembler 	 a computer program that translates programming code written in assembly language into machine code; assemblers can be one pass or two pass.	4.2 Assembly Language
@@ -518,7 +518,7 @@ Compiler 	 a computer program that translates a source program written in a high
 Current instruction register (CIR) 	 this is a register used to contain the instruction which is currently being executed or decoded.	4.2 Assembly Language
 Direct addressing 	 mode of addressing in which the contents of the memory location in the operand are used; same as absolute addressing .	4.2 Assembly Language
 General case	a definition of a recursive function in terms of itself (The case for which the  solution is expressed in terms of a smaller version of itself)	4.2 Assembly Language
-Indexed addressing 	 mode of addres sing in which the cont ent s of the memory location found by adding the contents of the index register (IR) to the address of the memory location in the operand are used.	4.2 Assembly Language
+Indexed addressing 	 mode of addressing in which the cont ent s of the memory location found by adding the contents of the index register (IR) to the address of the memory location in the operand are used.	4.2 Assembly Language
 Indirect addressing 	 mode of addressing in which the contents of the contents of the memory location in the operand are used.	4.2 Assembly Language
 Low level programming 	A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions. Generally, this refers to either machine code or assembly language.	4.2 Assembly Language
 Machine code 	 the programming language that the CPU uses.	4.2 Assembly Language
@@ -529,7 +529,7 @@ Recursive call 	A method call in which the method  being called is the
 Relative addressing 	mode of addressing in which the memory address used is the current memory address added to the operand.	4.2 Assembly Language
 Secondary Key	Secondary Key. An entity may have one or more choices for the primary key. Collectively these are known as candidate keys. One is selected as the primary key.	4.2 Assembly Language
 Symbolic addressing 	mode of addressing used in assembly language programming; a Label is used instead of a value.	4.2 Assembly Language
-Von Neumann architecture 	 computer archit ect ur e wh ich introduced the concept of the stored program in the 194Os.	4.2 Assembly Language
+Von Neumann architecture 	 computer architecture which introduced the concept of the stored program in the 194Os.	4.2 Assembly Language
 Arithmetic shift 	 the sign of the number is preserved.	4.3 Bit manipulation
 Cyclic shift 	 no bits are lost; bits shifted out of one end of the register are introduced at the other end of the register.	4.3 Bit manipulation
 Gray codes 	ordering of binary numbers such that successive numbers differ by one bit value only, for example, 00 01 11 10.	4.3 Bit manipulation
@@ -537,13 +537,13 @@ Half adder circuit 	 carries out binary addition on two bits giving sum and carr
 Left shift 	 bits a re shifted to the left.	4.3 Bit manipulation
 Metalanguage	A language used to describe and define another language. (E.G. English is its own Metalanguage, English grammar described in English.)	4.3 Bit manipulation
 Parity bit 	an extra bit found at the end of a byte that is set to 1 if the parity of the byte needs to change to agree with sender/receiver parity protocol.	4.3 Bit manipulation
-Parity block 	 horizontal and vertical parity check on a block of data being t ran sferred.	4.3 Bit manipulation
+Parity block 	 horizontal and vertical parity check on a block of data being transferred.	4.3 Bit manipulation
 Right shift 	bits are shifted to the right.	4.3 Bit manipulation
 Set 	 a given list of unordered elements that can use set theory operations such as intersection and union.	4.3 Bit manipulation
 Sign and magnitude 	binary number system where left-most bit is used to represent the sign (0 = + and 1 = - ); the remaining bits represent the binary value.	4.3 Bit manipulation
 CLI 	 command line interface.	5.1 Operating System
 Control 	 to automatically take readings from a device, then use the data from those readings to adjust the device.	5.1 Operating System
-Control Bus	A bidirectional bus which transmits a signal from the control unit to any other system compenent	5.1 Operating System
+Control Bus	A bidirectional bus which transmits a signal from the control unit to any other system component	5.1 Operating System
 Control unit 	 ensures synchronisation of data flow and programs throughout the computer by sending out control signals along the control bus.	5.1 Operating System
 Core 	 a unit made up of ALU, control unit and registers which is part of a CPU; a CPU may contain a number of cores.	5.1 Operating System
 Defragmentation	Reduce the fragmentation of (a file) by concatenating parts stored in separate locations on a disk.	5.1 Operating System
@@ -563,12 +563,12 @@ OS 	Operating system - s system software that manages computer hardware and soft
 Process management 	 part of the operating system that involves allocation of resources and permits the sharing and exchange of data.	5.1 Operating System
 Security management 	 part of the operating system that ensures the integrity, confidentiality and availability of data.	5.1 Operating System
 Sequential file organisation 	 a method of file organisation in which records of data are physically stored in a file, one after another, in a given order.	5.1 Operating System
-Virtual machine 	 an emulati on of an existing computer system; a computer OS running within another computer's OS.	5.1 Operating System
+Virtual machine 	 an emulation of an existing computer system; a computer OS running within another computer's OS.	5.1 Operating System
 Virtual memory 	 type of paging that gives the illusion of unlimited memory being available.	5.1 Operating System
 Virtual memory systems 	 memory management (part of OS) that makes use of hardware and software to enable a computer to compensate for shortage of actual physical memory.	5.1 Operating System
 Web browser 	 software that connects to DNS to locate IP	5.1 Operating System
-World Wide Web (WWW ) 	 collection of multimedia web pages stored on a website; uses the internet to access i nform atio. from servers and other computers.	5.1 Operating System
-Interpreter 	 a com pute r program that analyses and executes a program written in a high	5.2 Language Translators
+World Wide Web (WWW ) 	 collection of multimedia web pages stored on a website; uses the internet to access information. from servers and other computers.	5.1 Operating System
+Interpreter 	 a computer program that analyses and executes a program written in a high	5.2 Language Translators
 Page fault 	 occurs when a new page is referred but is not yet in memory.	5.2 Language Translators
 Python	A high level programming language that has wide use and general purpose	5.2 Language Translators
 Single stepping 	 the practice of running a program one Line/ instruction at a time.	5.2 Language Translators
@@ -576,7 +576,7 @@ Syntax diagram 	 a graphical method of defining and showing the grammatical rule
 Access rights (data security) 	 use of access levels to ensure only authorised users can gain access to certain data.	6.1 Data Security
 Antivirus software 	 software that quarantines and deletes files or programs infected by a virus (or other malware); it can be run in the background or initiated by the user.	6.1 Data Security
 Biometrics 	 use of unique human characteristics to identify a  user (such as fingerprints or face recognition	6.1 Data Security
-Block chaining 	 form of encryption, in which the previous block of ciphertext is X0Red with the block of plaintext and then encrypted thus preventing identical plaintext blocks producing identical ciphert ext.	6.1 Data Security
+Block chaining 	 form of encryption, in which the previous block of ciphertext is X0Red with the block of plaintext and then encrypted thus preventing identical plaintext blocks producing identical ciphertext.	6.1 Data Security
 Block cipher 	 the encryption of a number of contiguous bits in one go rather than one bit at a time.	6.1 Data Security
 Ciphertext 	 the product when plain text is put through an encryption algorithm .	6.1 Data Security
 Data privacy 	 the privacy of personal information, or other information stored on a computer, that should not be accessed by unauthorised parties.	6.1 Data Security
@@ -587,9 +587,9 @@ Encryption	Conversion of electronic data into a form which cannot be understood 
 Ethical hacking 	The purpose of ethical hacking is to evaluate the security of and identify vulnerabilities in systems, networks or system infrastructure. It includes finding and attempting to exploit any vulnerabilities to determine whether unauthorized access or other malicious activities are possible.	6.1 Data Security
 False positive 	a file or program identified by a virus checker as being infected but the user knows this cannot be correct .	6.1 Data Security
 Firewall 	software or hardware that sits between a computer and external network which monitors and filters all incoming and outgoing activities.	6.1 Data Security
-Hacking 	 illegal access to a computer system without the owner's perm ission.	6.1 Data Security
+Hacking 	 illegal access to a computer system without the owner's permission.	6.1 Data Security
 Heuristic checking 	checking of software for behaviour that could indicate a possible virus.	6.1 Data Security
-Key distribution problem 	 security issue inherent in symmetric encryption arising from the fact that, when sending the secret key to a recipient, there is the risk that the key can be i nt ercepted by an eavesd ropper/ hacker.	6.1 Data Security
+Key distribution problem 	 security issue inherent in symmetric encryption arising from the fact that, when sending the secret key to a recipient, there is the risk that the key can be intercepted by an eavesdropper/ hacker.	6.1 Data Security
 Malicious hacking 	 hacking done with the sole intent of causing harm to a computer system or user (for example, deletion of files or use of private data to the hacker's advantage).	6.1 Data Security
 Malware 	 malicious software that seeks to damage or gain unauthorised access to a computer system.	6.1 Data Security
 Non-Repudiation	The sender of a message cannot deny sending the message.	6.1 Data Security
@@ -602,12 +602,12 @@ Private Key	A private key is an encryption/decryption key known only to the part
 Product key 	 security method used in software to protect against illegal copies or use.	6.1 Data Security
 Quarantine 	 file or program identified as being infected by a virus which has been isolated by antivirus software before it is deleted at a later stage.	6.1 Data Security
 Secure Sockets Layer (SSL) 	 security protocol used when sending data over the internet.	6.1 Data Security
-Spam	Irrelevant or inapproriate messages sent on the Internet to a large number of recipients.	6.1 Data Security
+Spam	Irrelevant or inappropriate messages sent on the Internet to a large number of recipients.	6.1 Data Security
 Spyware	A type of Malware that locates and saves data from users secretly.	6.1 Data Security
-Stuxnet	Stuxnet is a family of cleverly written malware worms that primarily target SCADA (Supervisory Control and Data Acquistition) control systems for large infrastructures such as industrial power plants.	6.1 Data Security
+Stuxnet	Stuxnet is a family of cleverly written malware worms that primarily target SCADA (Supervisory Control and Data Acquisition) control systems for large infrastructures such as industrial power plants.	6.1 Data Security
 Swarm 	 connected peers (clients) that share a torrent/tracker.	6.1 Data Security
 Trojan virus 	Trojan horses are impostors--files that claim to be something desirable but, in fact, are malicious. A very important distinction from true viruses is that they do not replicate themselves, as viruses do. Trojans contain malicious code, that, when triggered, cause loss, or even theft, of data.	6.1 Data Security
-User account 	 an agreement that allows an in dividual to use a computer or network server, often requiring a user name and password .	6.1 Data Security
+User account 	 an agreement that allows an individual to use a computer or network server, often requiring a user name and password .	6.1 Data Security
 White box testing 	a method of testing a program that tests the structure and logic of every path through a program module.	6.1 Data Security
 Abnormal test data 	 testdata that should be rejected by a program.	6.2 Data Integrity
 Acknowledgement 	 message sent to a receiver to indicate that data has been received without error.	6.2 Data Integrity
@@ -627,10 +627,10 @@ Integrity	Proof that the contents of a message have not been changed since it wa
 Logical shift 	 bits shifted out of the register are replaced with zeros.	6.2 Data Integrity
 Lossless compression	A form of compression using algorhythms to reconstruct compressed data perfectly	6.2 Data Integrity
 Odd parity 	 binary number with an odd number of 1	6.2 Data Integrity
-Parity byte 	 additional byte sent with transmitted data to enable vertical parity checking (as well as horizontal parity ch ecking) to be carried out.	6.2 Data Integrity
+Parity byte 	 additional byte sent with transmitted data to enable vertical parity checking (as well as horizontal parity checking) to be carried out.	6.2 Data Integrity
 Parity check 	 method used to check if data has been transferred correctly; uses even or odd parity.	6.2 Data Integrity
 Testing 	 part of the program development lifecycle; the testing of the program to make sure that it works under all conditions.	6.2 Data Integrity
-Validation	A check that sees if the data entered is of the right format and type, it does not gurantee accuracy	6.2 Data Integrity
+Validation	A check that sees if the data entered is of the right format and type, it does not guarantee accuracy	6.2 Data Integrity
 Verification 	 method used to ensure data is correct by using dou ble entry or visual checks.	6.2 Data Integrity
 Virus	A piece of code that is capable of copying itself and typically has a detrimental effect, such as corrupting the system or destroying data.	6.2 Data Integrity
 Web crawler 	An internet bot that systematically browses the world wide web to update its web page content.	6.2 Data Integrity
@@ -641,31 +641,30 @@ computer ethics	moral principles governing the design, building, implementation 
 Contiguous 	 items next to each other.	7.1 Ethics and Ownership
 copyright	the legal right to intellectual property	7.1 Ethics and Ownership
 Culture 	 the attitudes, values and practices shared by a group of people/society.	7.1 Ethics and Ownership
-Digital rights management (ORM) 	 electronic way of validating the aut hent icity of digital document s (that is, making sure they have not been tampered with during t ransmi ssion) and also proof that a document was sent by a known user.	7.1 Ethics and Ownership
+Digital rights management (ORM) 	 electronic way of validating the authenticity of digital documents (that is, making sure they have not been tampered with during transmission) and also proof that a document was sent by a known user.	7.1 Ethics and Ownership
 Ethics 	moral principles governing an individual's or organisation's behaviour, such as a code of conduct.	7.1 Ethics and Ownership
 Free Software Foundation 	 organisation promoting the free distribution of software, giving users the freedom to run, copy, change or adapt the coding as needed.	7.1 Ethics and Ownership
 freeware	copyrighted software that is available free of charge	7.1 Ethics and Ownership
 Freeware 	 software that can be downloaded free of charge; however, it is covered by the usual copyright laws and cannot be modified; nor can the code be used for another purpose.	7.1 Ethics and Ownership
-IEEE 	 Instit ut e of Electrical a nd Electronics En gin eers.	7.1 Ethics and Ownership
-Legal 	 relati ng to, or per missible by, law.	7.1 Ethics and Ownership
+IEEE 	 Institute of Electrical a nd Electronics Engineers.	7.1 Ethics and Ownership
+Legal 	 relating to, or permissible by, law.	7.1 Ethics and Ownership
 Morality 	 an understanding of the difference between right and wrong, often founded in personal belief s.	7.1 Ethics and Ownership
-Open Source Initiative 	 organisation offering the same freedoms as the Free Software Foundation, but with more of a focus on the practical consequences of the four shared rules, such as more collaborative software dev elopment .	7.1 Ethics and Ownership
+Open Source Initiative 	 organisation offering the same freedoms as the Free Software Foundation, but with more of a focus on the practical consequences of the four shared rules, such as more collaborative software development .	7.1 Ethics and Ownership
 open source software	software that can be freely copied, distributed and adapted	7.1 Ethics and Ownership
 Plagiarism 	 the act of taking another person's work and claiming it as one's own.	7.1 Ethics and Ownership
 shareware	copyrighted software that is available free of charge for a limited period, after which a licence must be obtained	7.1 Ethics and Ownership
-Candidate Key	Candidate Key – A Candidate Key can be any column or a combination of columns that can qualify as unique key indatabase. There can be multiple Candidate Keys in one table. Each Candidate Key can qualify as Primary Key. Primary Key – A Primary Key is a column or a combination of columns that uniquely identify a record.	8.1 Database Concepts
+Candidate Key	Candidate Key – A Candidate Key can be any column or a combination of columns that can qualify as unique key in database. There can be multiple Candidate Keys in one table. Each Candidate Key can qualify as Primary Key. Primary Key – A Primary Key is a column or a combination of columns that uniquely identify a record.	8.1 Database Concepts
 Database 	 a structured collection of items of data that can be accessed by different applications programs.	8.1 Database Concepts
 Field	A group of characters that represent a single item of data in a file	8.1 Database Concepts
 First normal form (lNF) 	the status of a relational database in which entities do not contain repeated groups of attributes.	8.1 Database Concepts
 Foreign Key	In context of relational databases, a foreign key is a field (or collection of fields) in one table that uniquely identifies a row of another table. In simpler words, the foreign key is defined in a second table, but it refers to the primary key in the first table.	8.1 Database Concepts
 Indexing 	Indexes are used to quickly locate data without having to search every row in a database table every time a database table is accessed. Indexes can be created using one or more columns of a database table, providing the basis for both rapid random lookups and efficient access of ordered records.	8.1 Database Concepts
-man ag'ement, secon dary storage management, and so on).		8.1 Database Concepts
 Normalisation	Decomposing a database table into less redundant/smaller tables without losing information	8.1 Database Concepts
 Record (data base) 	 a row in a table in a database.	8.1 Database Concepts
 Referential integrity 	 property of a database that does not contain any values of a foreign key that are not matched to the corresponding primary key.	8.1 Database Concepts
 Relational Database	A database that represents data as a collection of tables in which all data relationships are represented by common values in related tables	8.1 Database Concepts
 Removable hard disk drive 	 portable hard disk drive that is external to the computer; it can be connected via a USB port when required; often used as a device to back up files and data.	8.1 Database Concepts
-Secondary key	 a ca nd idat e key that is an alternative to the primary key.	8.1 Database Concepts
+Secondary key	 a candidate key that is an alternative to the primary key.	8.1 Database Concepts
 Table	In relational databases and flat file databases, a table is a set of data elements (values) using a model of vertical columns (identifiable by name) and horizontal rows, the cell being the unit where a row and column intersect. A table has a specified number of columns, but can have any number of rows.	8.1 Database Concepts
 Tuple 	 one instance of an entity, which is represent ed by a row in a table.	8.1 Database Concepts
 1NF - First Normal Form	A relational database table structure that has no repeating fields or groups of fields	8.2 Database Management System (DBMS)
@@ -677,12 +676,12 @@ Attribute	a named piece of data stored within an object	8.2 Database Management 
 Attribute (database) 	 an individual data item stored for an entity; for example, for a person, attributes could include name, address, date of birth.	8.2 Database Management System (DBMS)
 Attributes (class) 	the data items in a class.	8.2 Database Management System (DBMS)
 Composite key 	 a set of attributes that form a primary key to provide a unique identifier for a table.	8.2 Database Management System (DBMS)
-Data Management	Data management is the process of controlling the information generated during a research project. Any research will require some level of data management, and funding agencies are increasingly requiring scholars to plan and execute good data managementpractices.	8.2 Database Management System (DBMS)
+Data Management	Data management is the process of controlling the information generated during a research project. Any research will require some level of data management, and funding agencies are increasingly requiring scholars to plan and execute good data management practices.	8.2 Database Management System (DBMS)
 Data manipulation language (DML) 	 a language used to add, modify, delete and retrieve the data stored in a relational database.	8.2 Database Management System (DBMS)
 Database management system (DBMS) 	 systems software for the definition, creation and manipulation of a database.	8.2 Database Management System (DBMS)
 Developer interface 	 feature of a DBMS that provides developers with the commands required for definition, creation and manipulation of a database.	8.2 Database Management System (DBMS)
 Logical schema 	 a data model for a specific database that is independent of the DBMS used to build that database.	8.2 Database Management System (DBMS)
-Primary key 	 a unique ident ifie r for a table, it is a special case of a candidate key.	8.2 Database Management System (DBMS)
+Primary key 	 a unique identifier for a table, it is a special case of a candidate key.	8.2 Database Management System (DBMS)
 Record 	The data stored for s number of fields in a single entry 	8.2 Database Management System (DBMS)
 Third normal form (3NF) 	 the status of a relational database in which entities are in 2NF and all non	8.2 Database Management System (DBMS)
 Data	The individual samples. An individual sample is the bit size times the number of channels. 	8.3 Data Definition Language (DDL) and Data Manipulation Language (DML)

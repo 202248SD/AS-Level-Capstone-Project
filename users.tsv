@@ -1,2 +1,3 @@
-username	 passwordHash	 personalBest
-202248SD	276c15dda78512e6f42a9c54c21ac0a94942816b060165a700268613cb6d25c9	-1
+username	passwordHash	personalBest	mistakes
+202248SD	276c15dda78512e6f42a9c54c21ac0a94942816b060165a700268613cb6d25c9	0	1 2 3 22 176 185
+

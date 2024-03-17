@@ -40,7 +40,7 @@ def main():
         arr = pick_fake(keyword, keywords, NUM_CHOICES - 1, n)
 
         correct_index = display_question(arr, definition, keyword)
-        answer = input_answer()
+        answer = input_answer(NUM_CHOICES)
 
         if answer == 'x':
             running = False

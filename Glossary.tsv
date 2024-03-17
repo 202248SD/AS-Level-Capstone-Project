@@ -1,12 +1,12 @@
 Term	Definition	Topic
-ASCII code 	 coding system for all the characters on a keyboard and control codes.	01.1 Data Representation
-BCD	BInary Coded Decimal	01.1 Data Representation
+ASCII code 	 Coding system for all the characters on a keyboard and control codes.	01.1 Data Representation
+BCD	Binary Coded Decimal	01.1 Data Representation
 BCS 	 British Computer Society.	01.1 Data Representation
 Binary	Numbers that consist of the digits 0 and 1.	01.1 Data Representation
-Bit 	 abbreviation for binary digit.	01.1 Data Representation
-By value 	 a method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.	01.1 Data Representation
+Bit 	 Abbreviation for binary digit.	01.1 Data Representation
+By value 	 A method of passing a parameter to a procedure in which the value of the variable cannot be changed by the procedure.	01.1 Data Representation
 Byte	A group of eight bits treated as a single unit 	01.1 Data Representation
-Candidate key 	 an attribute or smallest set of attributes in a	01.1 Data Representation
+Candidate key 	 An attribute or smallest set of attributes in a	01.1 Data Representation
 Channels 	Channels are the number of separate recording elements in the data	01.1 Data Representation
 Character set 	a list of characters that have been defined by computer hardware and software; it is necessary to have a method of coding, so that the computer can understand human characters.	01.1 Data Representation
 Composite data type 	 a data type constructed using several of the basic data types available in a particular programming language.	01.1 Data Representation
@@ -17,7 +17,7 @@ Entity 	anything that can have data stored about it; for example, a person, plac
 Enumerated data type 	a non-composite data type defined by a given list of all possible values that has an implied order.	01.1 Data Representation
 ERD - Entity Relationship Diagram	Pictorial way of showing relationships between entities	01.1 Data Representation
 File 	a collection of data stored by a computer program to be used again.	01.1 Data Representation
-file header	region at the beginning of each file where book keeping information (like file size) is kept.	01.1 Data Representation
+File header	region at the beginning of each file where book keeping information (like file size) is kept.	01.1 Data Representation
 File organisation 	 the way that records of data are physically stored in a file, including the structure and ordering of the records.	01.1 Data Representation
 Flag 	indicates the status of a bit in the status register; for example, N = 1 indicates the result of an addition gives a negative value.	01.1 Data Representation
 Fragmented 	 storage of data in non	01.1 Data Representation
@@ -32,7 +32,7 @@ Instance	a specific example of an object	01.1 Data Representation
 Instance variable 	 each object of a class has its own individual copy of this data	01.1 Data Representation
 intellectual property	something unique that has been physically created by someone (an idea that hasn’t been implemented is not intellectual property)	01.1 Data Representation
 Interlaced Encoding	Interlacing refers to the method of encoding two separate 'fields' in a single frame by using alternating lines	01.1 Data Representation
-Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the int err u pt has been serviced.	01.1 Data Representation
+Interrupt 	 signal sent from a device or software to a processor requesting its attention; the processor suspends all operations until the interrupt has been serviced.	01.1 Data Representation
 Iterative model 	 a type of program development cycle in which a simple subset of the requirements is developed, then	01.1 Data Representation
 Kibi	A prefix representing the factor 2^10(1024) written as the symbol KiBi	01.1 Data Representation
 Lexical analysis 	 the first stage in the process of compilation;	01.1 Data Representation
@@ -48,7 +48,7 @@ Setter 	 a method used to control changes to a variable.	01.1 Data Representatio
 Superclass 	 provides methods and attributes which are used by another class	01.1 Data Representation
 Trace table 	 a table showing the process of dry running	01.1 Data Representation
 Two's complement 	 each binary digit is reversed and 1 is added in right	01.1 Data Representation
-Unicode 	 coding system which represent s all the languages of the world (first 128 characters are the same as ASCII code).	01.1 Data Representation
+Unicode 	 coding system which represents all the languages of the world (first 128 characters are the same as ASCII code).	01.1 Data Representation
 Unlabelled data 	 data where objects are undefined and need to be manually recognised.	01.1 Data Representation
 Word 	 group of bits used by a computer to represent a single unit.	01.1 Data Representation
 Analogue to digital converter (ADC) 	 needed to convert analogue data (read from sensors, for example) into a form understood by a computer.	01.2 Multimedia – Graphics, Sound
@@ -118,7 +118,7 @@ identifier table	a table listing the variable identifier required for the soluti
 In demand paging 	 a form of data swapping where pages of data are not copied from HDD/SSD into RAM until they are actually required .	10.1 Data Types and Records
 Normal test data 	 test data that should be accepted by a program.	10.1 Data Types and Records
 Relationship	A relationship, in the context of databases, is a situation that exists between two relational database tables when one table has a foreign key that references the primary key of the other table. Relationships allow relational databases to split and store data in different tables, while linking disparate data items.	10.1 Data Types and Records
-state transition diagram	A graphical representation of a finite state machine	10.1 Data Types and Records
+State transition diagram	A graphical representation of a finite state machine	10.1 Data Types and Records
 Array 	 a data structure containing several elements of the same data type.	10.2 Arrays
 Hash Table	Hash Table is a data structure which stores data in an associative manner. In a hash table, data is stored in an array format, where each data value has its own unique index value. Access of data becomes very fast if we know the index of the desired data.	10.2 Arrays
 Index (array) 	 a numerical indicator of an item of data's position in an array .	10.2 Arrays
@@ -157,13 +157,13 @@ Constructor 	 a method used to initialise a new object.	11.2 Constructs
 Constructor 	 a special method to tell Python how to create an object of this class: in Python, the constructor method is always called __init__ with a double underscore on each side of ‘init’	11.2 Constructs
 Parallel processing 	 operation which allows a process to be split up and for each part to be executed by a different processor at the same time.	11.2 Constructs
 Pipelining 	 allows several instructions to be processed simultaneously without having to wait for previous instructions to finish.	11.2 Constructs
-event	Something that can happen within a system, such as a timer event, or an input to the system, that may trigger a transition to another state	11.3 Structured Programming
+Event	Something that can happen within a system, such as a timer event, or an input to the system, that may trigger a transition to another state	11.3 Structured Programming
 Exception 	an unexpected event that disrupts the execution of a program.	11.3 Structured Programming
 Exception handling 	the process of responding to an exception within the program so that the program does not halt unexpectedly.	11.3 Structured Programming
 Extend 	a class which uses the functionality of an existing class, but also adds to or overwrites some of it	11.3 Structured Programming
 Imperative programming 	 program ming paradigm in which the steps required to execute a program are set out in the order they need to be carried out .	11.3 Structured Programming
 Inheritance 	 process in which the methods and data from one class, a superclass or base class, are copied to another class, a derived class.	11.3 Structured Programming
-Procedure 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the state ment s each time.	11.3 Structured Programming
+Procedure 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the statements each time.	11.3 Structured Programming
 Segment number 	index number of a segment.	11.3 Structured Programming
 Upper bound 	the index of the last element in an array.	11.3 Structured Programming
 Adaptive maintenance 	 the alteration of a program to perform new tasks. 	 12.1 Program Development Lifecycle
@@ -177,8 +177,8 @@ Thrash point 	point at which the execution of a process comes to a halt since th
 Waterfall model 	 a linear sequential program development cycle, in which each stage is completed before the next is begun.	12.1 Program Development Lifecycle
 Backus Naur form (BNF) notation 	a formal method of defining the grammatical rules of a programming language.	12.2 Program Design
 Design 	 part of the program development lifecycle; it uses the program specification from the analysis stage to show how the program should be developed .	12.2 Program Design
-finite state machine (FSM)	A system that consists of a fixed set of possible states with a set of allowable inputs that may change the state and a set of possible outputs	12.2 Program Design
-guard condition	A condition which must be met for a transition to occur from one state to another	12.2 Program Design
+Finite state machine (FSM)	A system that consists of a fixed set of possible states with a set of allowable inputs that may change the state and a set of possible outputs	12.2 Program Design
+Guard condition	A condition which must be met for a transition to occur from one state to another	12.2 Program Design
 Heuristic 	 method that employs a practical solution (rather than a theoretical one) to a problem; when applied to algorithms this includes running tests and obtaining results by trial and error.	12.2 Program Design
 Method	a function called upon an object allowing interaction with that object	12.2 Program Design
 Node or vertex 	 fundamental unit from which graphs are formed (nodes and vertices are the points where edges converge).	12.2 Program Design
@@ -278,7 +278,7 @@ Reward and punishment 	improvements to a model based on whether feedback is posi
 Supervised learning 	 system which is able to predict future outcomes based on past data; it requires both input and output values to be used in the training process.	18.1 Artificial Intelligence
 Unsupervised learning 	 system which is able to identify hidden patterns from input data; the system is not trained on the 'right' answer.	18.1 Artificial Intelligence
 A* algorithm 	 an algorithm that finds the shortest route between nodes or vertices but uses an additional heuristic approach to achieve better performance than Dijkstra's algorithm.	19.1 Algorithms
-Binary search 	a method of searching an ordered list by testing the value of t he middle item in the list and rejecting the half .of the list that does not contain the required value.	19.1 Algorithms
+Binary search 	a method of searching an ordered list by testing the value of the middle item in the list and rejecting the half .of the list that does not contain the required value.	19.1 Algorithms
 Binary tree 	A hierarchical data structure in which each parent node can have a maximum of two child nodes	19.1 Algorithms
 Boolean	A data type that only has two values, true or false	19.1 Algorithms
 Boolean algebra 	 a form of algebra linked to logic circuits and based on TRUE and FALSE.	19.1 Algorithms
@@ -347,7 +347,7 @@ IPv6 	are 128-bit IP address written in hexadecimal and separated by colons. 	2.
 ISP	Internet Service Provider such as TM or TIME	2.1 Networks including the internet
 Javascript	an object-oriented computer programming language commonly used to create interactive effects within web browsers.	2.1 Networks including the internet
 LAN 	local area network (network covering a small area such as a single building).	2.1 Networks including the internet
-Latency 	 the lag in a system; for exa mp le, the time to find a track on a hard disk, which depend s on the time taken for the disk to rotate around to its read	2.1 Networks including the internet
+Latency 	 the lag in a system; for exa mp le, the time to find a track on a hard disk, which depends on the time taken for the disk to rotate around to its read	2.1 Networks including the internet
 LEO	operate at a distance of about 500-1500 km.	2.1 Networks including the internet
 Link-Local address 	 169.254.0.0 to 169.254.255.255 (169.254.0.0/16) addresses can be automatically assigned to the local host	2.1 Networks including the internet
 MAN 	metropolitan area network (network which is larger than a LAN but smaller than a WAN; can cover several buildings in a single city, such as a university campus).	2.1 Networks including the internet
@@ -465,10 +465,10 @@ Super computer 	 a powerful mainframe computer.	3.1 Computers and their componen
 Switch	is a computer networking device that connects devices together on a computer network by using packet switching to receive, process, and forward data to the destination device. There's one in S1.	3.1 Computers and their components
 Thin client 	 device that needs access to the internet for it to work; it depends on a more powerful computer for processing.	3.1 Computers and their components
 Touch screen 	 screen on which the touch of a finger or stylus allows selection or manipulation of a screen image; they usually use capacitive or resistive technology.	3.1 Computers and their components
-Twisted pair cable 	 type of cable in which two wires of a single circuit are twisted together; several t wisted pairs make up a single cable.	3.1 Computers and their components
+Twisted pair cable 	 type of cable in which two wires of a single circuit are twisted together; several twisted pairs make up a single cable.	3.1 Computers and their components
 Utility program 	 parts of the operating system which carry out certain functions , such as virus checking, defragmentation or hard disk formatting .	3.1 Computers and their components
 Video Graphics Array (VGA) 	 type of port connecting devices to a computer.	3.1 Computers and their components
-Virtual reality headset 	 apparatus worn on the head that covers the eyes like a pair of goggles; it gives the user the 'feeling of being t here' by immersing them totally in the virtual reality experience.	3.1 Computers and their components
+Virtual reality headset 	 apparatus worn on the head that covers the eyes like a pair of goggles; it gives the user the 'feeling of being there' by immersing them totally in the virtual reality experience.	3.1 Computers and their components
 Arithmetic Logic Unit	logic unit (ALU) 	3.2 Logic Gates and Logic Circuits
 Karnaugh map	A diagram set to minimize Boolean expressions without having to use Boolean algebra theorems and equation manipulations	3.2 Logic Gates and Logic Circuits
 Logic circuit 	 formed from a combination of logic gates and designed to carry out a particular task; the output from a logic circuit will be O or 1.	3.2 Logic Gates and Logic Circuits
@@ -487,12 +487,12 @@ Data Bus	A component that carries data to and from the processor allows data to 
 Dijkstra's algorithm 	 an algorithm that finds the shortest path between two nodes or vertices in a graph/ network.	4.1 Central Processing Unit (CPU) Architecture
 Direct access 	 a method of file access in which a record can be physically found in a file without physically reading other records.	4.1 Central Processing Unit (CPU) Architecture
 Function 	 a set of statements that can be grouped together and easily called in a program whenever required, rather than repeating all of the statements each time. Unlike a procedure, a function always returns a value.	4.1 Central Processing Unit (CPU) Architecture
-Immediate access store {IAS) 	 holds all data and program s needed to be accessed by the control un it .	4.1 Central Processing Unit (CPU) Architecture
+Immediate access store {IAS) 	 holds all data and programs needed to be accessed by the control unit .	4.1 Central Processing Unit (CPU) Architecture
 Instruction 	a single operation performed by a CPU.	4.1 Central Processing Unit (CPU) Architecture
-Instruction set 	 the complete set of machine code instructions used by a CPU .	4.1 Central Processing Unit (CPU) Architecture
-Interrupt dispatch table {IDT) 	 data structure used to implement a n int err upt vector table.	4.1 Central Processing Unit (CPU) Architecture
-Interrupt priority 	 all interrupts are given a priority so that the processor kn ows wh ich need to be serviced first and	4.1 Central Processing Unit (CPU) Architecture
-Interrupt priority levels {IPL) 	 values given to interrupts based on val ues O to 31.	4.1 Central Processing Unit (CPU) Architecture
+Instruction set 	 The complete set of machine code instructions used by a CPU .	4.1 Central Processing Unit (CPU) Architecture
+Interrupt dispatch table {IDT) 	 Data structure used to implement an interrupt vector table.	4.1 Central Processing Unit (CPU) Architecture
+Interrupt priority 	 All interrupts are given a priority so that the processor knows which need to be serviced first	4.1 Central Processing Unit (CPU) Architecture
+Interrupt priority levels {IPL) 	 Values given to interrupts based on values O to 31.	4.1 Central Processing Unit (CPU) Architecture
 Interrupts	 A signal that gets the attention of the CPU and is usually generated when I/O is required.	4.1 Central Processing Unit (CPU) Architecture
 Memory cache 	 high speed memory external to processor which stores data which the processor will need again.	4.1 Central Processing Unit (CPU) Architecture
 MISD 	 multiple instruction single data, computer architecture which uses many processors but the same shared data source.	4.1 Central Processing Unit (CPU) Architecture
@@ -518,7 +518,7 @@ Compiler 	 a computer program that translates a source program written in a high
 Current instruction register (CIR) 	 this is a register used to contain the instruction which is currently being executed or decoded.	4.2 Assembly Language
 Direct addressing 	 mode of addressing in which the contents of the memory location in the operand are used; same as absolute addressing .	4.2 Assembly Language
 General case	a definition of a recursive function in terms of itself (The case for which the  solution is expressed in terms of a smaller version of itself)	4.2 Assembly Language
-Indexed addressing 	 mode of addressing in which the cont ent s of the memory location found by adding the contents of the index register (IR) to the address of the memory location in the operand are used.	4.2 Assembly Language
+Indexed addressing 	 mode of addressing in which the contents of the memory location found by adding the contents of the index register (IR) to the address of the memory location in the operand are used.	4.2 Assembly Language
 Indirect addressing 	 mode of addressing in which the contents of the contents of the memory location in the operand are used.	4.2 Assembly Language
 Low level programming 	A low-level programming language is a programming language that provides little or no abstraction from a computer's instruction set architecture—commands or functions in the language map closely to processor instructions. Generally, this refers to either machine code or assembly language.	4.2 Assembly Language
 Machine code 	 the programming language that the CPU uses.	4.2 Assembly Language
@@ -622,7 +622,7 @@ Checksum 	 verification method used to check if data transferred has been altere
 Data hiding 	 technique which protects the integrity of an object by restricting access to the data and methods within that object'.	6.2 Data Integrity
 Data Integrity	Data integrity refers to maintaining and assuring the accuracy and consistency of data over its entire life-cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes, or retrieves data.	6.2 Data Integrity
 Even parity 	binary number with an even number of 1	6.2 Data Integrity
-Integration testing 	 a method of testing a program that test s combinations of program modules that work together.	6.2 Data Integrity
+Integration testing 	 a method of testing a program that tests combinations of program modules that work together.	6.2 Data Integrity
 Integrity	Proof that the contents of a message have not been changed since it was sent.	6.2 Data Integrity
 Logical shift 	 bits shifted out of the register are replaced with zeros.	6.2 Data Integrity
 Lossless compression	A form of compression using algorhythms to reconstruct compressed data perfectly	6.2 Data Integrity
@@ -637,14 +637,13 @@ Web crawler 	An internet bot that systematically browses the world wide web to u
 Worm	A standalone malware computer program that replicates itself in order to spread to other computers.	6.2 Data Integrity
 ACM 	 Association for Computing Machinery.	7.1 Ethics and Ownership
 Code of conduct	a set of rules governing the behaviour of a group or organisation (e.g. computer professionals)	7.1 Ethics and Ownership
-computer ethics	moral principles governing the design, building, implementation and use of computer systems	7.1 Ethics and Ownership
+Computer ethics	moral principles governing the design, building, implementation and use of computer systems	7.1 Ethics and Ownership
 Contiguous 	 items next to each other.	7.1 Ethics and Ownership
-copyright	the legal right to intellectual property	7.1 Ethics and Ownership
+Copyright	the legal right to intellectual property	7.1 Ethics and Ownership
 Culture 	 the attitudes, values and practices shared by a group of people/society.	7.1 Ethics and Ownership
 Digital rights management (ORM) 	 electronic way of validating the authenticity of digital documents (that is, making sure they have not been tampered with during transmission) and also proof that a document was sent by a known user.	7.1 Ethics and Ownership
 Ethics 	moral principles governing an individual's or organisation's behaviour, such as a code of conduct.	7.1 Ethics and Ownership
 Free Software Foundation 	 organisation promoting the free distribution of software, giving users the freedom to run, copy, change or adapt the coding as needed.	7.1 Ethics and Ownership
-freeware	copyrighted software that is available free of charge	7.1 Ethics and Ownership
 Freeware 	 software that can be downloaded free of charge; however, it is covered by the usual copyright laws and cannot be modified; nor can the code be used for another purpose.	7.1 Ethics and Ownership
 IEEE 	 Institute of Electrical a nd Electronics Engineers.	7.1 Ethics and Ownership
 Legal 	 relating to, or permissible by, law.	7.1 Ethics and Ownership
@@ -652,7 +651,7 @@ Morality 	 an understanding of the difference between right and wrong, often fou
 Open Source Initiative 	 organisation offering the same freedoms as the Free Software Foundation, but with more of a focus on the practical consequences of the four shared rules, such as more collaborative software development .	7.1 Ethics and Ownership
 open source software	software that can be freely copied, distributed and adapted	7.1 Ethics and Ownership
 Plagiarism 	 the act of taking another person's work and claiming it as one's own.	7.1 Ethics and Ownership
-shareware	copyrighted software that is available free of charge for a limited period, after which a licence must be obtained	7.1 Ethics and Ownership
+Shareware	copyrighted software that is available free of charge for a limited period, after which a licence must be obtained	7.1 Ethics and Ownership
 Candidate Key	Candidate Key – A Candidate Key can be any column or a combination of columns that can qualify as unique key in database. There can be multiple Candidate Keys in one table. Each Candidate Key can qualify as Primary Key. Primary Key – A Primary Key is a column or a combination of columns that uniquely identify a record.	8.1 Database Concepts
 Database 	 a structured collection of items of data that can be accessed by different applications programs.	8.1 Database Concepts
 Field	A group of characters that represent a single item of data in a file	8.1 Database Concepts
@@ -682,7 +681,7 @@ Database management system (DBMS) 	 systems software for the definition, creatio
 Developer interface 	 feature of a DBMS that provides developers with the commands required for definition, creation and manipulation of a database.	8.2 Database Management System (DBMS)
 Logical schema 	 a data model for a specific database that is independent of the DBMS used to build that database.	8.2 Database Management System (DBMS)
 Primary key 	 a unique identifier for a table, it is a special case of a candidate key.	8.2 Database Management System (DBMS)
-Record 	The data stored for s number of fields in a single entry 	8.2 Database Management System (DBMS)
+Record 	The data stored for number of fields in a single entry 	8.2 Database Management System (DBMS)
 Third normal form (3NF) 	 the status of a relational database in which entities are in 2NF and all non	8.2 Database Management System (DBMS)
 Data	The individual samples. An individual sample is the bit size times the number of channels. 	8.3 Data Definition Language (DDL) and Data Manipulation Language (DML)
 Data definition language (DDL) 	 a language used to create, modify and remove the data structures that form a database.	8.3 Data Definition Language (DDL) and Data Manipulation Language (DML)

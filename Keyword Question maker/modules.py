@@ -10,7 +10,7 @@ def init_question_data():
         course = str(input('Do you want to learn AS Level, A Level, or both? (AS/A/both)'))
         print('')
         if course == 'AS':
-            k, d, t = k[:201], d[:201], t[:201]
+            k, d, t = k[1:201], d[1:201], t[1:201]
         elif course == 'A':
             k, d, t = k[202:], d[202:], t[202:]
         return k, d, t
@@ -37,12 +37,13 @@ def init_user_data():
     return user_details, users, hashes, pb, mistakes
 
 
-def input_answer():
+def input_answer(n):
     answer = input()
     if answer == 'x':
         return answer
-    elif answer not in [str(i) for i in range(10)]:
+    elif answer not in [str(i+1) for i in range(n)]:
         print('Error: Your input should be the number next to the keyword you choose')
+        print('')
         return 'ERROR'
     else:
         return int(answer)

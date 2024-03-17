@@ -13,11 +13,12 @@ def pick_question(keywords, definitions, n, mistake):
 
 
 def pick_fake(keyword, keywords, num, n):
+    num = min(num, n-1)
     arr = [keyword]
     for _ in range(num):
         flag = True
         while flag:
-            i = random.randint(1, n - 1)
+            i = random.randint(0, n - 1)
             if keywords[i] not in arr:
                 flag = False
         arr.append(keywords[i])

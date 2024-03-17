@@ -49,7 +49,7 @@ Trace table 	 A table showing the process of dry running	01.1 Data Representatio
 Two's complement 	 Each binary digit is reversed and 1 is added in right	01.1 Data Representation
 Unicode 	 Coding system which represents all the languages of the world (first 128 characters are the same as ASCII code).	01.1 Data Representation
 Unlabelled data 	 Data where objects are undefined and need to be manually recognised. 	 01.1 Data Representation
-Word    Group of bits used by a computer to represent a single unit.	01.1 Data Representation
+Word 	 Group of bits used by a computer to represent a single unit. 	 01.1 Data Representation
 Analogue to digital converter (ADC) 	 Needed to convert analogue data (read from sensors, for example) into a form understood by a computer.	01.2 Multimedia – Graphics, Sound
 Bit depth 	 Number of bits used to represent the smallest unit in, for example, a sound or image file; the larger the bit depth, the better the quality of the sound or colour image.	01.2 Multimedia – Graphics, Sound
 Bit rate 	 Number of bits per second that can be transmitted over a network; it is a measure of the data transfer rate over a digital telecoms network..	01.2 Multimedia – Graphics, Sound

@@ -22,7 +22,6 @@ def main():
     elif login_method == CREATE:
         UID = len(users)
         username, password_hash = create_user(user_details)
-        user_detail = [username, password_hash, 0, '']
 
         mistake = []
         personal_best = 0
